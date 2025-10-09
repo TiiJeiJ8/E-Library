@@ -1,6 +1,6 @@
 # 按流派组织的书籍
 
-[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
+[US English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 **说明**：本目录仅作为索引视图。实际电子书文件存放在 [library/](../../library/README.zh-CN.md)。
 

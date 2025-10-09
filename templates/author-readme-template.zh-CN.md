@@ -1,6 +1,6 @@
 # 作者：姓氏, 名字（原名：原文字）
 
-[🇺🇸 English](./author-readme-template.md) | [🇨🇳 中文](./author-readme-template.zh-CN.md)
+[US English](./author-readme-template.md) | [CN 中文](./author-readme-template.zh-CN.md)
 
 ## 元数据
 

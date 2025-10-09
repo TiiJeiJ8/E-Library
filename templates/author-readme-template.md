@@ -1,6 +1,6 @@
 # [Author Last Name], [Author First Name] (Original: [Native Script])
 
-[🇺🇸 English](./author-readme-template.md) | [🇨🇳 中文](./author-readme-template.zh-CN.md)
+[US English](./author-readme-template.md) | [CN 中文](./author-readme-template.zh-CN.md)
 
 ## Metadata
 

@@ -1,6 +1,6 @@
 # 书籍集合
 
-[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
+[US English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 欢迎来到 E-Library 的书籍集合！本文件夹包含按多种方式组织的电子书，以满足不同的浏览偏好。
 

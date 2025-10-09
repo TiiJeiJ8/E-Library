@@ -1,6 +1,6 @@
 # Books Collection
 
-[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
+[US English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 Welcome to the E-Library books collection! This folder contains e-books organized using multiple methods to suit different browsing preferences.
 

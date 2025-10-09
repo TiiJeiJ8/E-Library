@@ -1,6 +1,6 @@
 # Books Organized by Author
 
-[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
+[US English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 **Note**: This folder is an index-only view. Actual e-book files are stored under [library/](../../library/README.md).
 

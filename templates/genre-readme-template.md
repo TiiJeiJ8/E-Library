@@ -1,6 +1,6 @@
 # [Genre Name]
 
-[🇺🇸 English](./genre-readme-template.md) | [🇨🇳 中文](./genre-readme-template.zh-CN.md)
+[US English](./genre-readme-template.md) | [CN 中文](./genre-readme-template.zh-CN.md)
 
 This folder contains [Genre Name] books.
 

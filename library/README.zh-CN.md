@@ -1,5 +1,7 @@
 # 书库（Library）
 
+[US English](./README.md) | [CN 中文](./README.zh-CN.md)
+
 此文件夹用于存放实际的电子书文件（PDF/EPUB/MOBI/AZW 等）。
 
 - 仓库中的 `books/` 仅作为索引/目录视图（按作者/类别/主题）。
@@ -15,12 +17,6 @@ library/
       AuthorLastName_BookTitle_Year.pdf
       AuthorLastName_BookTitle_Year.epub
 ```
-
-## 建议使用 Git LFS
-
-为避免仓库膨胀，大文件建议使用 Git LFS 跟踪。
-可以考虑跟踪的扩展名：
-- *.pdf, *.epub, *.mobi, *.azw, *.azw3
 
 ## 注意
 

@@ -1,6 +1,6 @@
 # [Book Title]
 
-[🇺🇸 English](./book-summary-template.md) | [🇨🇳 中文](./book-summary-template.zh-CN.md)
+[US English](./book-summary-template.md) | [CN 中文](./book-summary-template.zh-CN.md)
 
 **Author:** [Author Name]  
 **Year:** [Publication Year]  

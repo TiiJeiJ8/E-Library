@@ -1,6 +1,6 @@
 # 阅读笔记： [书名]
 
-[🇺🇸 English](./reading-notes-template.md) | [🇨🇳 中文](./reading-notes-template.zh-CN.md)
+[US English](./reading-notes-template.md) | [CN 中文](./reading-notes-template.zh-CN.md)
 
 **作者：** [作者姓名]  
 **笔记作者：** [你的名字]  

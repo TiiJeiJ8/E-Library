@@ -1,6 +1,6 @@
 # [主题名称]
 
-[🇺🇸 English](./topic-readme-template.md) | [🇨🇳 中文](./topic-readme-template.zh-CN.md)
+[US English](./topic-readme-template.md) | [CN 中文](./topic-readme-template.zh-CN.md)
 
 ## 定义与范围
 

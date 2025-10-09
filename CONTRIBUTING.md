@@ -1,6 +1,6 @@
 # Contributing to E-Library
 
-[🇺🇸 English](./CONTRIBUTING.md) | [🇨🇳 中文](./CONTRIBUTING.zh-CN.md)
+[US English](./CONTRIBUTING.md) | [CN 中文](./CONTRIBUTING.zh-CN.md)
 
 Thank you for your interest in contributing to E-Library! This document provides guidelines for adding e-books and improving the repository.
 

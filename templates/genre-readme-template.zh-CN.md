@@ -1,6 +1,6 @@
 # [类别名称]
 
-[🇺🇸 English](./book-summary-template.md) | [🇨🇳 中文](./book-summary-template.zh-CN.md)
+[US English](./book-summary-template.md) | [CN 中文](./book-summary-template.zh-CN.md)
 
 本文件夹包含属于 **[类别名称]** 的书籍。
 
