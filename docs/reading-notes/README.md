@@ -1,5 +1,7 @@
 # Reading Notes
 
+[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
+
 This folder contains detailed reading notes, insights, and highlights from books in the library.
 
 ## Purpose
@@ -19,7 +21,7 @@ Reading notes are more flexible than summaries. They can include:
 - Questions raised by the reading
 - Action items or applications
 
-See the [template](../templates/reading-notes-template.md) for a suggested format.
+See the [template](../../templates/reading-notes-template.md) for a suggested format.
 
 ## Naming Convention
 

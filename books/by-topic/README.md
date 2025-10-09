@@ -1,5 +1,9 @@
 # Books Organized by Topic
 
+[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
+
+**Note**: This folder is an index-only view. Actual e-book files are stored under [library/](../../library/README.md).
+
 This folder contains e-books organized by specific topics or subject areas. Each topic has its own subfolder.
 
 ## Organization Method
@@ -31,7 +35,7 @@ Create topic subfolders as needed:
 1. Identify the primary topic(s) for your book
 2. Create topic subfolder(s) if they don't exist
 3. Add your e-book file with proper naming convention
-4. Update the topic folder's README with book details
+4. Update the topic folder's  [README](../../templates/topic-readme-template.md) with book details
 
 ## Cross-Referencing
 

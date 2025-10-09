@@ -1,8 +1,15 @@
 # [Topic Name]
 
-## Description
+[🇺🇸 English](./topic-readme-template.md) | [🇨🇳 中文](./topic-readme-template.zh-CN.md)
+
+## Definition & Scope
 
 [Detailed description of what this topic covers and its scope]
+
+## Inclusion Criteria (Optional)
+
+- What content qualifies for this topic
+- Edge cases and cross-topic overlaps
 
 ## Books in This Topic
 
@@ -35,4 +42,4 @@ For those new to this topic, we recommend reading in this order:
 3. [Book Title] - [Advanced material]
 
 ---
-*Last updated: [Date]*
+Maintainer: [Your Name]  •  Last updated: [Date]

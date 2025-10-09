@@ -1,12 +1,14 @@
 # Books Collection
 
+[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
+
 Welcome to the E-Library books collection! This folder contains e-books organized using multiple methods to suit different browsing preferences.
 
 ## Organization Methods
 
 Choose the organization method that works best for you:
 
-### 📁 [By Genre](by-genre/)
+### 📁 [By Genre](by-genre/README.md)
 Browse books by their primary genre (Fiction, Non-Fiction, Technical, Science, etc.). Perfect for exploring books in a specific category.
 
 **Use this when:**
@@ -14,7 +16,7 @@ Browse books by their primary genre (Fiction, Non-Fiction, Technical, Science, e
 - You want to explore similar works
 - You're building a themed reading list
 
-### 👤 [By Author](by-author/)
+### 👤 [By Author](by-author/README.md)
 Find books organized by author's last name. Ideal for discovering all works by your favorite authors.
 
 **Use this when:**
@@ -22,7 +24,7 @@ Find books organized by author's last name. Ideal for discovering all works by y
 - You want to explore an author's complete works
 - You're doing author-focused research
 
-### 🎯 [By Topic](by-topic/)
+### 🎯 [By Topic](by-topic/README.md)
 Explore books organized by specific subjects or topics. Great for deep dives into particular areas of interest.
 
 **Use this when:**

@@ -1,5 +1,7 @@
 # Book Summaries
 
+[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
+
 This folder contains brief summaries and overviews of books available in the library.
 
 ## Purpose
@@ -19,7 +21,7 @@ Each summary should include:
 - Brief overview (3-5 paragraphs)
 - Target audience
 
-See the [template](../templates/book-summary-template.md) for the recommended format.
+See the [template](../../templates/book-summary-template.md) for the recommended format.
 
 ## Naming Convention
 

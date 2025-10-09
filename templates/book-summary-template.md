@@ -1,10 +1,18 @@
 # [Book Title]
 
+[🇺🇸 English](./book-summary-template.md) | [🇨🇳 中文](./book-summary-template.zh-CN.md)
+
 **Author:** [Author Name]  
 **Year:** [Publication Year]  
+**Edition:** [Edition/Printing, optional]  
+**Pages:** [Total pages, optional]  
+**ISBN:** [ISBN-10/13, optional]  
 **Format:** [PDF/EPUB/MOBI/etc.]  
+**Level:** [Beginner/Intermediate/Advanced]  
+**Prerequisites:** [What readers should know first, optional]  
 **Genre:** [Genre]  
-**Location:** `books/[organization-method]/[folder]/[filename]`
+**Topics:** [topic1, topic2]  
+**Location:** `library/[author-or-structure]/[book-folder]/[filename]`
 
 ## Overview
 
@@ -18,11 +26,16 @@
 
 ## Summary
 
-[Write 3-5 paragraphs summarizing the main content of the book. Focus on:
+[Write 3-7 paragraphs summarizing the main content of the book. Focus on:
 - The main arguments or narrative
 - Key concepts or ideas
 - Structure and organization
 - Notable features or highlights]
+
+### Chapter Highlights (Optional)
+
+- Chapter [N]: [Key points and takeaways]
+- Chapter [N+1]: [Key points and takeaways]
 
 ## Target Audience
 
@@ -42,4 +55,8 @@
 [tag1] [tag2] [tag3] [tag4]
 
 ---
-*Summary contributed by [Your Name], [Date]*
+References (Optional):
+- [Citation 1]
+- [Citation 2]
+
+Contributed by: [Your Name], [Date]

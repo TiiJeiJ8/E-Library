@@ -1,5 +1,7 @@
 # E-Library 📚
 
+[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
+
 A dedicated, organized GitHub repository for storing, managing, and accessing electronic book files. Designed to simplify e-book storage with clear folder structures and comprehensive documentation to enhance usability.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -16,6 +18,7 @@ E-Library is a centralized, version-controlled space for managing digital book c
 
 ```
 E-Library/
+├── library/           # Actual e-book files (PDF/EPUB/MOBI/AZW, etc.)
 ├── books/
 │   ├── by-genre/       # Books organized by genre (Fiction, Technical, etc.)
 │   ├── by-author/      # Books organized by author's last name
@@ -31,6 +34,17 @@ E-Library/
 
 ## 🚀 Getting Started
 
+### Quick Jump
+
+- [Library](./library/README.md) — Actual e-book files live here
+- [Books by genre](./books/by-genre/README.md)
+- [Books by author](./books/by-author/README.md)
+- [Books by topic](./books/by-topic/README.md)
+- [Summaries](./docs/summaries/README.md)
+- [Reading notes](./docs/reading-notes/README.md)
+- [Templates](./templates/README.md)
+- [Contributing guide](./CONTRIBUTING.md)
+
 ### For Readers
 
 1. **Browse the Collection**: Navigate through `books/` using your preferred organization method:
@@ -44,6 +58,8 @@ E-Library/
    ```bash
    git clone https://github.com/TiiJeiJ8/E-Library.git
    ```
+   or
+   download the very book files you need directly from GitHub.
 
 ### For Contributors
 

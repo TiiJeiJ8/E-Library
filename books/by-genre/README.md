@@ -1,5 +1,9 @@
 # Books Organized by Genre
 
+[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
+
+**Note**: This folder is an index-only view. Actual e-book files are stored under [library/](../../library/README.md).
+
 This folder contains e-books organized by their primary genre. Each genre has its own subfolder.
 
 ## Available Genres
@@ -21,7 +25,7 @@ Create subfolders for genres as needed:
 
 1. Create a genre subfolder if it doesn't exist
 2. Add your e-book file with proper naming convention
-3. Update the genre folder's README with book details
+3. Update the genre folder's  [README](../../templates/genre-readme-template.md) with book details
 
 ## Example Structure
 

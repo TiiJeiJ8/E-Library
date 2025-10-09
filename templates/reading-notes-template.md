@@ -1,10 +1,13 @@
 # Reading Notes: [Book Title]
 
+[🇺🇸 English](./reading-notes-template.md) | [🇨🇳 中文](./reading-notes-template.zh-CN.md)
+
 **Author:** [Author Name]  
 **Reader:** [Your Name]  
 **Date:** [Date when notes were taken]  
 **Format:** [PDF/EPUB/MOBI/etc.]  
-**Location:** `books/[organization-method]/[folder]/[filename]`
+**Location:** `library/[author-or-structure]/[book-folder]/[filename]`  
+**Spoilers:** [None/Mild/Heavy]
 
 ## Initial Thoughts
 
@@ -43,6 +46,11 @@
 [Your thoughts and reactions]
 
 [Continue for other chapters...]
+
+## Concepts and Glossary (Optional)
+
+- Term: Definition / your understanding
+- Concept: Short explanation
 
 ## Important Quotes
 

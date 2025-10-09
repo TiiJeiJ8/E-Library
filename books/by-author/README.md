@@ -1,5 +1,9 @@
 # Books Organized by Author
 
+[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
+
+**Note**: This folder is an index-only view. Actual e-book files are stored under [library/](../../library/README.md).
+
 This folder contains e-books organized by author's last name. Each author has their own subfolder.
 
 ## Organization Method
@@ -12,7 +16,7 @@ This folder contains e-books organized by author's last name. Each author has th
 
 1. Create an author subfolder using format: `LastName-FirstName/`
 2. Add the e-book file(s) to the author's folder
-3. Update the author folder's README with book details
+3. Update the author folder's  [README](../../templates/author-readme-template.md) with book details
 
 ## Example Structure
 

@@ -1,5 +1,7 @@
 # Contributing to E-Library
 
+[🇺🇸 English](./CONTRIBUTING.md) | [🇨🇳 中文](./CONTRIBUTING.zh-CN.md)
+
 Thank you for your interest in contributing to E-Library! This document provides guidelines for adding e-books and improving the repository.
 
 ## How to Contribute
@@ -7,11 +9,12 @@ Thank you for your interest in contributing to E-Library! This document provides
 ### Adding New E-Books
 
 1. **Fork the Repository**: Create your own fork of this repository
-2. **Choose the Right Folder**: Place your e-book in the appropriate folder:
-   - `books/by-genre/` - Organize by genre (Fiction, Non-Fiction, Technical, etc.)
-   - `books/by-author/` - Organize by author's last name
-   - `books/by-topic/` - Organize by specific topic or subject area
-3. **Add Documentation**: Create or update the book's entry in the corresponding folder's README
+2. **Place Files under `library/`**: Store actual e-book files under `library/` using a clear structure (e.g., `Author-Last-Name-First-Name/Book-Title-YYYY/`).
+3. **Index in `books/`**: Create or update the book's entry in the appropriate index README:
+   - `books/by-genre/` — list the book under the relevant genre
+   - `books/by-author/` — list the book under the author's folder
+   - `books/by-topic/` — list the book under relevant topics
+   README template can be found [Link](./templates/README.md)
 4. **Submit a Pull Request**: Describe the book you're adding and why it's valuable
 
 ### File Naming Convention
@@ -40,7 +43,7 @@ When adding a book, please include:
 
 ### Quality Guidelines
 
-- Ensure files are not corrupted
+- Place binaries in `library/` and ensure files are not corrupted
 - Respect copyright laws - only add books in the public domain or with appropriate licenses
 - Maintain consistent naming and organization
 - Test that files open correctly
