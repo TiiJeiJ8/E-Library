@@ -2,17 +2,19 @@
 
 [🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
 
-A dedicated, organized GitHub repository for storing, managing, and accessing electronic book files. Designed to simplify e-book storage with clear folder structures and comprehensive documentation to enhance usability.
+An open, community-built GitHub repository for storing, managing, and sharing electronic book files. This project is designed to let contributors upload, curate, and maintain a collective e-book library. We provide clear folder structure, metadata templates, and contribution guidelines to keep the collection organized, discoverable, and legally compliant.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📖 About
 
-E-Library is a centralized, version-controlled space for managing digital book collections. Perfect for:
-- Personal e-book collections
-- Small study groups
-- Teams needing shared reading materials
-- Collaborative learning communities
+E-Library is a centralized, version-controlled, community-maintained digital library. Perfect for:
+- Individuals building personal e-book collections
+- Study groups and clubs sharing reading materials
+- Educators and teams distributing course readings
+- Community contributors who upload and curate books to grow a shared library
+
+Want to help build the collection? Please read [CONTRIBUTING.md](CONTRIBUTING.md) and follow copyright and licensing guidelines before adding files.
 
 ## 🗂️ Repository Structure
 
