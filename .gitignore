@@ -1,0 +1,24 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*~
+
+# Archive Files (optional - uncomment if you don't want to track compressed archives)
+# *.zip
+# *.rar
+# *.7z
+
+# Personal Notes (uncomment if you want to keep personal notes private)
+# **/notes.txt
+# **/TODO.txt
