@@ -4,10 +4,10 @@
 
 ## Metadata
 
-- Also known as (Aliases): George Orwell
-- Nationality/Region: United Kingdom
-- Active Years: 1903–1950
-- Languages: en
+- **Also known as (Aliases):** George Orwell
+- **Nationality/Region:** United Kingdom
+- **Active Years:** 1903–1950
+- **Languages:** en
 
 ## About the Author
 

@@ -4,11 +4,11 @@
 
 ## Metadata
 
-- Also known as (Aliases): [Alias 1, Alias 2]
-- Nationality/Region: [Country/Region]
-- Active Years: [YYYY–YYYY or Present]
-- Languages: [en, zh, ...]
-- External IDs: ORCID: [id], VIAF: [id], ISNI: [id] (optional)
+- **Also known as (Aliases):** [Alias 1, Alias 2]
+- **Nationality/Region:** [Country/Region]
+- **Active Years:** [YYYY–YYYY or Present]
+- **Languages:** [en, zh, ...]
+- **External IDs:** ORCID: [id], VIAF: [id], ISNI: [id] (optional)
 
 ## About the Author
 
