@@ -18,12 +18,6 @@ library/
       AuthorLastName_BookTitle_Year.epub
 ```
 
-## Git LFS (Recommended)
-
-Large binary files should be tracked with Git LFS to avoid repository bloat.
-Extensions to consider tracking:
-- *.pdf, *.epub, *.mobi, *.azw, *.azw3
-
 ## Notes
 
 - Do not commit copyrighted materials unless they are public domain, under open licenses, or you have explicit permission.
