@@ -33,16 +33,16 @@
 
 此约定可确保同一本书的不同语言摘要能够被归类在一起，同时保持区分。
 
--   **英文示例**: `Orwell-1984_1983.en.md`
--   **中文示例**: `Orwell-1984_1983.zh.md`
+-   **英文示例**: `Orwell_1984_1983.en.md`
+-   **中文示例**: `Orwell_1984_1983.zh.md`
 
 ## 示例结构
 
 ```
 summaries/
-├── Orwell-1984_1983.en.md
-├── Orwell-1984_1983.zh.md
-├── Hawking-ABriefHistoryOfTime_1988.en.md
+├── Orwell_1984_1983.en.md
+├── Orwell_1984_1983.zh.md
+├── Hawking_ABriefHistoryOfTime_1988.en.md
 └── README.md
 ```
 
