@@ -46,4 +46,7 @@ For those new to this topic, we recommend reading in this order:
 3. [Book Title] - [Advanced material]
 
 ---
-Maintainer: [Your Name]  •  Last updated: [Date]
+Maintainer:
+    - [TiiJeiJ8](https://github.com/TiiJeiJ8), <Github Sign your name here>
+
+Last updated: 2025-10-10

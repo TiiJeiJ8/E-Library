@@ -28,4 +28,7 @@ This folder contains books belonging to the **[Sub-Genre Name]** sub-genre, whic
 - **Related Top-Level Genres:** `../../[other-top-level-genre-folder-name]/`
 
 ---
-Maintainer: [Your Name]  •  Last updated: [Date]
+Maintainer:
+    - [TiiJeiJ8](https://github.com/TiiJeiJ8), <Github Sign your name here>
+
+Last updated: 2025-10-10

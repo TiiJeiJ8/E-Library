@@ -46,4 +46,7 @@ This folder contains [Genre Name] books.
 - **[Related Genre 2]** - `../../[other-top-level-genre]/` (Link to another top-level genre)
 
 ---
-Maintainer: [Your Name]  •  Last updated: [Date]
+Maintainer:
+    - [TiiJeiJ8](https://github.com/TiiJeiJ8), <Github Sign your name here>
+
+Last updated: 2025-10-10

@@ -56,4 +56,7 @@ For actual files see the library folder; this page indexes entries.
 - Interviews/Profiles: [url]
 
 ---
-Maintainer: [Your Name]  •  Last updated: [Date]
+Maintainer:
+    - [TiiJeiJ8](https://github.com/TiiJeiJ8), <Github Sign your name here>
+
+Last updated: 2025-10-10
