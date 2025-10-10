@@ -4,10 +4,17 @@
 
 一个开放的、由社区共建的 GitHub 仓库，用于存储、管理和共享电子书文件。本项目鼓励贡献者上传、整理并维护共享书库。我们提供清晰的文件结构、元数据模板和贡献指南，帮助保持收藏的有序、易查找并符合法律合规要求。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributors](https://img.shields.io/github/contributors/TiiJeiJ8/E-Library.svg)](https://github.com/TiiJeiJ8/E-Library/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/TiiJeiJ8/E-Library.svg)](https://github.com/TiiJeiJ8/E-Library/commits/main)
-[![Downloads](https://img.shields.io/github/downloads/TiiJeiJ8/E-Library/total.svg)](https://github.com/TiiJeiJ8/E-Library/releases)
+<div align="center">
+   <a href="https://opensource.org/licenses/MIT">
+      <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
+   </a>
+   <a href="https://github.com/TiiJeiJ8/E-Library/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/TiiJeiJ8/E-Library.svg" alt="Contributors" />
+   </a>
+   <a href="https://github.com/TiiJeiJ8/E-Library/commits/main">
+      <img src="https://img.shields.io/github/last-commit/TiiJeiJ8/E-Library.svg" alt="Last Commit" />
+   </a>
+</div>
 
 ## 📖 关于
 
