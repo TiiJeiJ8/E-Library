@@ -35,7 +35,6 @@ Dystopian fiction frequently serves as a critique and reflection on contemporary
 ---
 
 Maintainers:
-  - [TiiJeiJ8](https://github.com/TiiJeiJ8)
-  <Add your GitHub signature here>
+  - [TiiJeiJ8](https://github.com/TiiJeiJ8), <Github Sign your name here>
 
 Last updated: 2025-10-10

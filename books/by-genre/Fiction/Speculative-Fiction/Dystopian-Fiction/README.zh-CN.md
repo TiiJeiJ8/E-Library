@@ -34,7 +34,6 @@
 
 ---
 维护者：
-  - [TiiJeiJ8](https://github.com/TiiJeiJ8)
-  <Github 留下你的签名>
+  - [TiiJeiJ8](https://github.com/TiiJeiJ8), <Github 留下你的签名>
 
 最后更新：2025-10-10
