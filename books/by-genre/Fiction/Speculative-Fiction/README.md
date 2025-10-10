@@ -19,12 +19,12 @@ Speculative fiction emphasizes **thought experiments** and **hypothetical world-
 ## Subgenres
 
 - **Science Fiction** - [`./Science-Fiction/`](./Science-Fiction/README.md)
-  Focuses on speculative scenarios grounded in science, technology, or cosmic laws.
-  Representative works include *2001: A Space Odyssey* and *The Three-Body Problem*.
+  - Focuses on speculative scenarios grounded in science, technology, or cosmic laws.
+  - Representative works include *2001: A Space Odyssey* and *The Three-Body Problem*.
 
 - **Dystopian Fiction** - [`./Dystopian-Fiction/`](./Dystopian-Fiction/README.md)
-  Depicts oppressive or totalitarian societies, often as a critique of real-world power structures.
-  Representative works include *Nineteen Eighty-Four*, *Brave New World*, and *The Handmaid’s Tale*.
+  - Depicts oppressive or totalitarian societies, often as a critique of real-world power structures.
+  - Representative works include *Nineteen Eighty-Four*, *Brave New World*, and *The Handmaid’s Tale*.
 
 [Add additional subgenres or bibliographies as needed.]
 

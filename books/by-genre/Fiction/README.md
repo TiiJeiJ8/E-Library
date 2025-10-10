@@ -14,7 +14,11 @@ Fiction generally refers to narrative literary works that are primarily imaginat
 ## Sub-Genres
 
 - **Political-Fiction** - [`./Political-Fiction/`](./Political-Fiction/README.md)
+    - A novel book that explores political themes, power dynamics, and social commentary.
+    - Representative works include "1984" and "Beautiful New World".
 - **Speculative-Fiction** - [`./Speculative-Fiction/`](./Speculative-Fiction/README.md)
+    - It includes subgenres such as science fiction, dystopia, utopia, and magical realism, focusing on the idea of "what if...".
+    - Representative works include "2001: A Space Odyssey," "The Three Body Problem," and "The Handmaid's Tale."
 
 ---
 Maintainer:

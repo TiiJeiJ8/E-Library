@@ -18,12 +18,12 @@ The genre spans a wide range of themes, from **hard science fiction** (focused o
 ## Subgenres
 
 - **Hard Science Fiction** - [`./Hard-Sci-Fic/`](./Hard-Sci-Fic/README.md)
-  Speculative works grounded in rigorous scientific principles, emphasizing **scientific accuracy** and **technical detail**.
-  Representative works include *Foundation* and *The Martian*.
+  - Speculative works grounded in rigorous scientific principles, emphasizing **scientific accuracy** and **technical detail**.
+  - Representative works include *Foundation* and *The Martian*.
 
 - **Philosophical Science Fiction** - [`./Philosophical-Sci-Fic/`](./Philosophical-Sci-Fic/README.md)
-  Focuses on **philosophical questions, existential themes, and thought experiments** concerning consciousness, meaning, and humanity.
-  Representative works include *2001: A Space Odyssey* and *The Three-Body Problem*.
+  - Focuses on **philosophical questions, existential themes, and thought experiments** concerning consciousness, meaning, and humanity.
+  - Representative works include *2001: A Space Odyssey* and *The Three-Body Problem*.
 
 [Add additional subgenres or bibliographies as needed.]
 
