@@ -28,3 +28,7 @@ by-author/
 ```
 
 有关浏览馆藏的不同方法的更多信息，请参阅[书籍组织主页](../README.zh-CN.md)。
+
+## 作者列表（按姓氏字母顺序）
+- [George Orwell](./Orwell-George/)
+- 
