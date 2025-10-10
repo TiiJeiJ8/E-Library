@@ -8,14 +8,34 @@
 
 ### 添加新电子书
 
-1. **Fork 仓库**：先将本仓库 fork 到你的账户
-2. **将文件放入 `library/`**：实际电子书（二进制）文件请放在 `library/` 下，并使用清晰结构（如 `Author-Last-Name-First-Name/Book-Title-YYYY/`）。
-3. **在 `books/` 建立索引**：在相应索引 README 中创建或更新该书目的条目：
-	- `books/by-genre/` — 将书籍列在对应类别下
-	- `books/by-author/` — 将书籍列在对应作者下
-	- `books/by-topic/` — 将书籍列在相关主题下
-  README 模板位于 [Link](./templates/README.zh-CN.md)
-4. **提交 Pull Request**：描述你添加的电子书及其价值
+如果你只想进行轻量贡献（如修改索引、更新文档、添加元数据），可以**直接在线上完成**，无需克隆仓库或配置本地环境。
+
+#####  方法一：使用 GitHub 网页界面
+
+1. 打开仓库页面（或你的 Fork）。
+2. 点击右上角 **“Add file” → “Create new file”**。
+3. 在文件名输入框中输入完整路径，例如：`books/by-author/Orwell-George/README.md`。
+> 💡 GitHub 会自动创建对应文件夹结构。
+4. 在编辑区填写内容（如书籍信息或简介）。
+5. 在底部填写提交说明（commit message），并选择：
+- ✅ “Create a new branch for this commit and start a pull request”
+6. 点击 **“Propose changes”**，GitHub 会自动引导你创建 Pull Request。
+
+#####  方法二：修改现有文件
+
+1. 打开要修改的文件（如某个 `README.md`）。
+2. 点击右上角的 **铅笔图标 ✏️（Edit this file）**。
+3. 修改内容后，直接提交（commit）并发起 Pull Request。
+
+#####  方法三：使用 GitHub.dev 在线编辑器（快捷键：`.`）
+
+1. 在仓库页面按下键盘 `.`（英文句号）。
+GitHub 会打开网页版 VS Code 编辑器。
+2. 你可以：
+- 创建文件夹、文件
+- 修改内容
+- 提交 commit 与发起 PR
+3. 无需安装任何软件或命令行工具。
 
 ### 文件命名规则
 
