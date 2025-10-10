@@ -25,22 +25,22 @@
 For actual files see the library folder; this page indexes entries.
 
 ### [Book Title 1] ([Year])
-- Genre: [Genre]
-- Topics: [topic1, topic2]
-- Language: [zh, en, ...]
-- Book Link: `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
-- Summary: `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
-- Reading Notes: `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
-- Description: [1–2 line description]
+- **Genre:** [Genre]
+- **Topics:** [topic1, topic2]
+- **Language:** [zh, en, ...]
+- **Book Link:** `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
+- **Summary:** `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
+- **Reading Notes:** `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
+- **Description:** [1–2 line description]
 
 ### [Book Title 2] ([Year])
-- Genre: [Genre]
-- Topics: [topic1, topic2]
-- Language: [zh, en, ...]
-- Book Link: `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
-- Summary: `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
-- Reading Notes: `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
-- Description: [1–2 line description]
+- **Genre:** [Genre]
+- **Topics:** [topic1, topic2]
+- **Language:** [zh, en, ...]
+- **Book Link:** `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
+- **Summary:** `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
+- **Reading Notes:** `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
+- **Description:** [1–2 line description]
 
 [Add more works as needed]
 
