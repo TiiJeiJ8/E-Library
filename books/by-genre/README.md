@@ -38,5 +38,5 @@ by-genre/
 For more information on the different ways to browse the collection, see the [main book organization page](../README.md).
 
 ## Genre List (Alphabetical by Name)
-- [Classic Literature](./Fiction/Classic-Literature/)
-- [Fiction](./Fiction/)
+- [Classic Literature](./Fiction/Classic-Literature/README.md)
+- [Fiction](./Fiction/README.md)

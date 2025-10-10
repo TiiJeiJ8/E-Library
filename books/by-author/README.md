@@ -30,5 +30,5 @@ by-author/
 For more information on the different ways to browse the collection, see the [main book organization page](../README.md).
 
 ## Author List (Alphabetical by Last Name)
-- [George Orwell](./Orwell-George/)
+- [George Orwell](./Orwell-George/README.md)
 - 
