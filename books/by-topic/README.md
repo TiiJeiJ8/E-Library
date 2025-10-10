@@ -1,61 +1,32 @@
-# Books Organized by Topic
+# Browse by Topic
 
 [US English](./README.md) | [CN 中文](./README.zh-CN.md)
 
-**Note**: This folder is an index-only view. Actual e-book files are stored under [library/](../../library/README.md).
+This directory organizes books from our collection by topic. Each topic has a dedicated subfolder containing a `README.md` that lists all books on that subject available in the [`../../library`](../../library/README.md) directory.
 
-This folder contains e-books organized by specific topics or subject areas. Each topic has its own subfolder.
+## How It Works
 
-## Organization Method
+- **Topic Folders**: Each subfolder is named after a topic (e.g., `Machine-Learning`, `Web-Development`).
+- **Book Lists**: Inside each topic's folder, a `README.md` file provides details and links to the relevant books.
 
-Topics are more specific than genres and can overlap. Books can be cross-referenced across multiple topics.
+This system allows you to explore subjects in depth and find materials related to specific areas of interest.
 
-## Sample Topics
+## How to Add a Topic
 
-Create topic subfolders as needed:
-
-- **Machine-Learning** - ML algorithms, theory, and applications
-- **Web-Development** - Web technologies, frameworks, and design
-- **Data-Science** - Data analysis, statistics, and visualization
-- **Artificial-Intelligence** - AI theory and applications
-- **Cybersecurity** - Security, cryptography, and privacy
-- **Cloud-Computing** - Cloud platforms and distributed systems
-- **Mobile-Development** - iOS, Android, and mobile app development
-- **DevOps** - CI/CD, automation, and infrastructure
-- **Database-Systems** - SQL, NoSQL, and data modeling
-- **Algorithms** - Algorithm design and analysis
-- **Leadership** - Management and team leadership
-- **Productivity** - Time management and efficiency
-- **Psychology** - Human behavior and mental processes
-- **Economics** - Economic theory and finance
-- **Climate-Science** - Environmental and climate topics
-
-## Adding Books
-
-1. Identify the primary topic(s) for your book
-2. Create topic subfolder(s) if they don't exist
-3. Add your e-book file with proper naming convention
-4. Update the topic folder's  [README](../../templates/topic-readme-template.md) with book details
-
-## Cross-Referencing
-
-If a book fits multiple topics, you can:
-- Add it to the most relevant topic folder
-- Reference it in other topic READMEs with a link
-- Or create symbolic links (if supported by your system)
+1.  **Create a folder** for the topic (e.g., `Machine-Learning`).
+2.  **Add a `README.md`** inside the new folder. You can use the [`topic-readme-template.md`](../../templates/topic-readme-template.md) as a starting point.
+3.  **List the books** for that topic in the `README.md`, with links to the files in the `library` directory.
 
 ## Example Structure
 
 ```
 by-topic/
 ├── Machine-Learning/
-│   ├── README.md
-│   ├── Bishop_PatternRecognition_2006.pdf
-│   └── Goodfellow_DeepLearning_2016.pdf
+│   └── README.md  (Lists all machine learning books)
 ├── Web-Development/
-│   ├── README.md
-│   └── Flanagan_JavaScriptTheDefinitiveGuide_2020.pdf
-└── Leadership/
-    ├── README.md
-    └── Sinek_StartWithWhy_2009.epub
+│   └── README.md  (Lists all web development books)
+└── Cybersecurity/
+    └── README.md  (Lists all cybersecurity books)
 ```
+
+For more information on the different ways to browse the collection, see the [main book organization page](../README.md).

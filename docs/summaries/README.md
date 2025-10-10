@@ -25,8 +25,26 @@ See the [template](../../templates/book-summary-template.md) for the recommended
 
 ## Naming Convention
 
-Use the same naming as the book file, but with `.md` extension:
-- Example: `Orwell_1984_1949.md`
+To support multilingual contributions and credit authors, please use the following format for summary files:
+
+**Format**: `Author-BookTitle_YYYY.[lang].md`
+
+-   `[lang]`: Use a two-letter language code (e.g., `en` for English, `zh` for Chinese).
+
+This convention ensures that summaries for the same book in different languages are grouped together while remaining distinct.
+
+-   **English Example**: `Orwell-1984_1949.en.md`
+-   **Chinese Example**: `Orwell-1984_1949.zh.md`
+
+## Example Structure
+
+```
+summaries/
+├── Orwell-1984_1949.en.md
+├── Orwell-1984_1949.zh.md
+├── Hawking-ABriefHistoryOfTime_1988.en.md
+└── README.md
+```
 
 ## Contributing
 

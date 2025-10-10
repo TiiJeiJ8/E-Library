@@ -1,48 +1,33 @@
-# 按主题组织的书籍
+# 按主题浏览
 
 [US English](./README.md) | [CN 中文](./README.zh-CN.md)
 
-**说明**：本目录仅作为索引视图。实际电子书文件存放在 [library/](../../library/README.zh-CN.md)。
+此目录按主题组织我们收藏的书籍。每个主题都有一个专门的子文件夹，其中包含一个 `README.md` 文件，列出了 [`../../library`](../../library/README.zh-CN.md) 目录中该主题的所有可用书籍。
 
-本文件夹按特定主题或学科组织电子书。每个主题都有自己的子文件夹。
+## 工作原理
 
-## 组织方式
+- **主题文件夹**：每个子文件夹都以一个主题命名（例如，`Machine-Learning`、`Web-Development`）。
+- **书籍列表**：在每个主题的文件夹内，一个 `README.md` 文件提供了相关书籍的详细信息和链接。
 
-主题通常比流派更具体，可能会重叠。书籍可以跨主题交叉引用。
+该系统使您可以深入探索主题并找到与特定兴趣领域相关的材料。
 
-## 示例主题
+## 如何添加主题
 
-按需创建主题子文件夹，例如：
-
-- **Machine-Learning** - 机器学习算法、理论与应用
-- **Web-Development** - Web 技术、框架与设计
-- **Data-Science** - 数据分析、统计与可视化
-- **Artificial-Intelligence** - 人工智能理论与应用
-- **Cybersecurity** - 安全、密码学与隐私
-- **Cloud-Computing** - 云平台与分布式系统
-- **Mobile-Development** - 移动端开发（iOS、Android）
-- **DevOps** - CI/CD、自动化与基础设施
-- **Database-Systems** - SQL、NoSQL 与数据建模
-- **Algorithms** - 算法设计与分析
-
-## 添加书籍
-1. 确定书籍的主要主题
-2. 创建主题子文件夹（如不存在）
-3. 将电子书文件添加并按命名规范命名
-4. 更新主题文件夹的 [README](../../templates/topic-readme-template.zh-CN.md)，列出书籍或交叉引用
+1.  **创建主题文件夹**（例如，`Machine-Learning`）。
+2.  在新文件夹内**添加 `README.md` 文件**。您可以使用 [`topic-readme-template.zh-CN.md`](../../templates/topic-readme-template.zh-CN.md) 作为起点。
+3.  在 `README.md` 中**列出该主题的书籍**，并提供指向 `library` 目录中文件的链接。
 
 ## 示例结构
 
 ```
 by-topic/
 ├── Machine-Learning/
-│   ├── README.md
-│   └── Goodfellow_DeepLearning_2016.pdf
+│   └── README.md  (列出所有机器学习书籍)
 ├── Web-Development/
-│   ├── README.md
-│   └── Flanagan_JavaScriptTheDefinitiveGuide_2020.pdf
-└── Leadership/
-	├── README.md
-	└── Sinek_StartWithWhy_2009.epub
+│   └── README.md  (列出所有 Web 开发书籍)
+└── Cybersecurity/
+    └── README.md  (列出所有网络安全书籍)
 ```
+
+有关浏览馆藏的不同方法的更多信息，请参阅[书籍组织主页](../README.zh-CN.md)。
 

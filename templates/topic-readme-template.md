@@ -18,6 +18,8 @@
 - **Year:** [Year]
 - **File:** `[filename]`
 - **Level:** [Beginner/Intermediate/Advanced]
+- **Summary:** `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
+- **Reading Notes:** `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
 - **Description:** [Brief description]
 
 ### [Book Title 2]
@@ -25,6 +27,8 @@
 - **Year:** [Year]
 - **File:** `[filename]`
 - **Level:** [Beginner/Intermediate/Advanced]
+- **Summary:** `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
+- **Reading Notes:** `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
 - **Description:** [Brief description]
 
 [Add more books as needed]
@@ -34,7 +38,7 @@
 - [Related Topic 1] - `../[folder-name]/`
 - [Related Topic 2] - `../[folder-name]/`
 
-## Learning Path
+## Learning Path (Optional)
 
 For those new to this topic, we recommend reading in this order:
 1. [Book Title] - [Why start here]

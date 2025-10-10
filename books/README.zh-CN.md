@@ -1,15 +1,15 @@
-# 书籍集合
+# 书籍组织
 
 [US English](./README.md) | [CN 中文](./README.zh-CN.md)
 
-欢迎来到 E-Library 的书籍集合！本文件夹包含按多种方式组织的电子书，以满足不同的浏览偏好。
+欢迎来到 E-Library 的书籍组织中心。此目录可帮助你浏览和发现存储在 [`../library`](../library/README.zh-CN.md) 文件夹中的书籍，而相关的文档（如摘要和笔记）则位于 [`../docs`](../docs/README.zh-CN.md) 文件夹中。
 
 ## 组织方式
 
 请选择最适合你的组织方法：
 
 ### 📁 [按流派](by-genre/README.zh-CN.md)
-按主要流派（小说、非小说、技术、科学等）浏览书籍，适合在某一类别中探索。
+按主要流派（小说、非小说、技术、科学等）浏览书籍。
 
 ### 👤 [按作者](by-author/README.zh-CN.md)
 按作者姓氏组织书籍，便于查找某位作者的全部作品。
@@ -17,24 +17,20 @@
 ### 🎯 [按专题](by-topic/README.zh-CN.md)
 按特定主题或学科组织书籍，适合深入某一领域。
 
-## 添加书籍
+## 连接书籍与文档
 
-添加新书时：
-1. 选择最合适的组织方法
-2. 将书籍文件放入对应文件夹
-3. 更新该文件夹的 README，添加书籍信息
+`books` 目录是书籍的中心索引。实际的电子书文件位于 [`../library`](../library/README.zh-CN.md)。为了丰富馆藏，我们鼓励创建：
 
-详细指南见 [CONTRIBUTING.md](../CONTRIBUTING.zh-CN.md)
+-   **书籍摘要**: 简短的概述，存储在 [`../docs/summaries`](../docs/summaries/README.zh-CN.md)。
+-   **阅读笔记**: 详细的思考和分析，存储在 [`../docs/reading-notes`](../docs/reading-notes/README.zh-CN.md)。
 
-## 查找书籍
+当您将书籍添加到 `library` 并在此处更新索引时，请考虑为 `docs` 文件夹贡献一份摘要或笔记，以帮助他人。
 
-- **搜索**：使用 GitHub 的搜索按书名、作者或关键字查找
-- **浏览 README**：每个文件夹包含列出书籍的 README
-- **查看摘要**：访问 `../docs/summaries/` 获取书籍概览
+## 查找书籍和文档
 
-## 支持格式
-
-- PDF、EPUB、MOBI、AZW 等电子书格式
+-   **浏览索引**: 使用上面的链接按流派、作者或主题探索书籍。
+-   **查找书籍文件**: 所有电子书文件都位于 [`../library`](../library/README.md) 目录中。
+-   **阅读摘要和笔记**: 访问 [`../docs/summaries`](../docs/summaries/README.zh-CN.md) 查看书籍概览，以及 [`../docs/reading-notes`](../docs/reading-notes/README.zh-CN.md) 获取详细笔记。
 
 ---
 

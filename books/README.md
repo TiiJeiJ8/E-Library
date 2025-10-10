@@ -1,55 +1,36 @@
-# Books Collection
+# Book Organization
 
 [US English](./README.md) | [CN 中文](./README.zh-CN.md)
 
-Welcome to the E-Library books collection! This folder contains e-books organized using multiple methods to suit different browsing preferences.
+Welcome to the E-Library's book organization center. This directory helps you browse and discover books stored in the [`../library`](../library/README.md) folder, while related documents like summaries and notes are in the [`../docs`](../docs/README.md) folder.
 
 ## Organization Methods
 
 Choose the organization method that works best for you:
 
 ### 📁 [By Genre](by-genre/README.md)
-Browse books by their primary genre (Fiction, Non-Fiction, Technical, Science, etc.). Perfect for exploring books in a specific category.
-
-**Use this when:**
-- You're interested in a specific type of book
-- You want to explore similar works
-- You're building a themed reading list
+Browse books by their primary genre (Fiction, Non-Fiction, Technical, Science, etc.).
 
 ### 👤 [By Author](by-author/README.md)
-Find books organized by author's last name. Ideal for discovering all works by your favorite authors.
-
-**Use this when:**
-- You're looking for books by a specific author
-- You want to explore an author's complete works
-- You're doing author-focused research
+Find books organized by author's last name.
 
 ### 🎯 [By Topic](by-topic/README.md)
-Explore books organized by specific subjects or topics. Great for deep dives into particular areas of interest.
+Explore books organized by specific subjects or topics.
 
-**Use this when:**
-- You're researching a specific subject
-- You want to learn about a particular field
-- You're building expertise in an area
+## Connecting Books and Documentation
 
-## Adding Books
+This `books` directory serves as the central index. The actual e-book files are located in [`../library`](../library/README.md). To enrich the collection, we encourage creating:
 
-When adding a new book, you can:
-1. Choose the most appropriate organization method
-2. Place the book file in the corresponding folder
-3. Update the folder's README with book details
+-   **Book Summaries**: Brief overviews, stored in [`../docs/summaries`](../docs/summaries/README.md).
+-   **Reading Notes**: Detailed thoughts and analysis, stored in [`../docs/reading-notes`](../docs/reading-notes/README.md).
 
-For detailed guidelines, see [CONTRIBUTING.md](../CONTRIBUTING.md)
+When you add a book to the library and update the index here, please consider contributing a summary or notes to the `docs` folder to help others.
 
-## Finding Books
+## Finding Books and Documents
 
-- **Search**: Use GitHub's search feature to find books by title, author, or keywords
-- **Browse READMEs**: Each folder contains a README listing all books
-- **Check Summaries**: Visit `../docs/summaries/` for book overviews
-
-## Supported Formats
-
-- PDF, EPUB, MOBI, AZW, and other e-book formats
+-   **Browse Indices**: Use the links above to explore books by genre, author, or topic.
+-   **Find Book Files**: All e-book files are located in the [`../library`](../library/README.md) directory.
+-   **Read Summaries & Notes**: Visit [`../docs/summaries`](../docs/summaries/README.md) for book overviews and [`../docs/reading-notes`](../docs/reading-notes/README.md) for detailed notes.
 
 ---
 

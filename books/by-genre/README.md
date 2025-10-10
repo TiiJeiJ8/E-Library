@@ -1,43 +1,32 @@
-# Books Organized by Genre
+# Browse by Genre
 
 [US English](./README.md) | [CN 中文](./README.zh-CN.md)
 
-**Note**: This folder is an index-only view. Actual e-book files are stored under [library/](../../library/README.md).
+This directory organizes books from our collection by genre. Each genre has a dedicated subfolder containing a `README.md` that lists all books of that type available in the [`../../library`](../../library/README.md) directory.
 
-This folder contains e-books organized by their primary genre. Each genre has its own subfolder.
+## How It Works
 
-## Available Genres
+- **Genre Folders**: Each subfolder is named after a genre (e.g., `Fiction`, `Technical`).
+- **Book Lists**: Inside each genre's folder, a `README.md` file provides details and links to the relevant books.
 
-Create subfolders for genres as needed:
+This system allows you to discover books based on your interests and explore different categories.
 
-- **Fiction** - Novels, short stories, and literary fiction
-- **Non-Fiction** - Biographies, essays, and factual works
-- **Technical** - Programming, engineering, and technical manuals
-- **Science** - Scientific texts and research materials
-- **Business** - Business, management, and entrepreneurship
-- **Self-Help** - Personal development and self-improvement
-- **History** - Historical texts and documentaries
-- **Philosophy** - Philosophical works and texts
-- **Arts** - Art, music, and creative works
-- **Education** - Textbooks and educational materials
+## How to Add a Genre
 
-## Adding Books
-
-1. Create a genre subfolder if it doesn't exist
-2. Add your e-book file with proper naming convention
-3. Update the genre folder's  [README](../../templates/genre-readme-template.md) with book details
+1.  **Create a folder** for the genre (e.g., `Fiction`).
+2.  **Add a `README.md`** inside the new folder. You can use the [`genre-readme-template.md`](../../templates/genre-readme-template.md) as a starting point.
+3.  **List the books** of that genre in the `README.md`, with links to the files in the `library` directory.
 
 ## Example Structure
 
 ```
 by-genre/
 ├── Fiction/
-│   ├── README.md
-│   └── Orwell_1984_1949.epub
+│   └── README.md  (Lists all fiction books)
 ├── Technical/
-│   ├── README.md
-│   └── Kernighan_TheCProgrammingLanguage_1988.pdf
+│   └── README.md  (Lists all technical books)
 └── Science/
-    ├── README.md
-    └── Hawking_ABriefHistoryOfTime_1988.epub
+    └── README.md  (Lists all science books)
 ```
+
+For more information on the different ways to browse the collection, see the [main book organization page](../README.md).

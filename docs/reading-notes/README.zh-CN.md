@@ -25,10 +25,27 @@
 
 ## 命名约定
 
-使用格式：`AuthorLastName_BookTitle_Year_NotesBy[YourName].md`
-- 示例：`Orwell_1984_1949_NotesByJohn.md`
+为了适应来自不同贡献者和多种语言的笔记，请遵循以下命名约定：
 
-此约定便于多人对同一本书共享各自笔记。
+**格式**: `作者-书名_年份.[语言].notes-by-[贡献者].md`
+
+-   `[语言]`: 双字母语言代码（例如 `en`, `zh`）。
+-   `[贡献者]`: 您的 GitHub 用户名或姓名。
+
+此格式有助于按书籍、语言和贡献者来组织笔记。
+
+-   **英文示例**: `Orwell-1984_1949.en.notes-by-John.md`
+-   **中文示例**: `Orwell-1984_1949.zh.notes-by-Li.md`
+
+## 示例结构
+
+```
+reading-notes/
+├── Orwell-1984_1949.en.notes-by-John.md
+├── Orwell-1984_1949.zh.notes-by-Li.md
+├── Hawking-ABriefHistoryOfTime_1988.en.notes-by-Jane.md
+└── README.md
+```
 
 ## 贡献
 

@@ -1,41 +1,30 @@
-# 按作者组织的书籍
+# 按作者浏览
 
 [US English](./README.md) | [CN 中文](./README.zh-CN.md)
 
-**说明**：本目录仅作为索引视图。实际电子书文件存放在 [library/](../../library/README.zh-CN.md)。
+此目录按作者组织我们收藏的书籍。每位作者都有一个专门的子文件夹，其中包含一个 `README.md` 文件，列出了他们在 [`../../library`](../../library/README.zh-CN.md) 目录中可用的作品。
 
-本文件夹按作者姓氏组织电子书。每位作者都有自己的子文件夹。
+## 工作原理
 
-## 组织方式
+- **作者文件夹**：每个子文件夹都以作者的名字命名（例如，`Orwell-George`）。
+- **书籍列表**：在每位作者的文件夹内，一个 `README.md` 文件提供了他们书籍的详细信息和链接。
 
-- 使用作者**姓氏**创建子文件夹
-- 对于有多部作品的作者，将所有作品放在同一子文件夹中
-- 文件夹命名格式示例：`LastName-FirstName/`
+该系统使您可以轻松地在一个地方发现特定作者的所有作品。
 
-## 添加书籍
+## 如何添加作者
 
-1. 使用格式 `LastName-FirstName/` 创建作者子文件夹
-2. 将电子书文件添加到作者文件夹中
-3. 更新该作者文件夹的  [README](../../templates/author-readme-template.zh-CN.md)，添加书籍信息和必要的元数据
+1.  **创建作者文件夹**，命名格式为 `姓-名`。例如：`Orwell-George`。
+2.  在新文件夹内**添加 `README.md` 文件**。您可以使用 [`author-readme-template.zh-CN.md`](../../templates/author-readme-template.zh-CN.md) 作为起点。
+3.  在 `README.md` 中**列出作者的书籍**，并提供指向 `library` 目录中实际文件的链接。
 
 ## 示例结构
 
 ```
 by-author/
 ├── Orwell-George/
-│   ├── README.md
-│   ├── Orwell_1984_1949.epub
-│   └── Orwell_AnimalFarm_1945.epub
-├── Hawking-Stephen/
-│   ├── README.md
-│   └── Hawking_ABriefHistoryOfTime_1988.epub
+│   └── README.md  (列出《1984》和《动物农场》等书籍)
 └── Kernighan-Brian/
-    ├── README.md
-    └── Kernighan_TheCProgrammingLanguage_1988.pdf
+    └── README.md  (列出《C 程序设计语言》)
 ```
 
-## 优点
-
-- 容易查找特定作者的全部作品
-- 简单的字母顺序浏览
-- 适合以作者为中心的收藏
+有关浏览馆藏的不同方法的更多信息，请参阅[书籍组织主页](../README.zh-CN.md)。

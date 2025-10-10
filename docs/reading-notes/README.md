@@ -25,10 +25,27 @@ See the [template](../../templates/reading-notes-template.md) for a suggested fo
 
 ## Naming Convention
 
-Use the format: `AuthorLastName_BookTitle_Year_NotesBy[YourName].md`
-- Example: `Orwell_1984_1949_NotesByJohn.md`
+To accommodate notes from different contributors in multiple languages, please follow this naming convention:
 
-This allows multiple people to share their notes on the same book.
+**Format**: `Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
+
+-   `[lang]`: A two-letter language code (e.g., `en`, `zh`).
+-   `[Contributor]`: Your GitHub username or name.
+
+This format helps organize notes by book, language, and contributor.
+
+-   **English Example**: `Orwell-1984_1949.en.notes-by-John.md`
+-   **Chinese Example**: `Orwell-1984_1949.zh.notes-by-Li.md`
+
+## Example Structure
+
+```
+reading-notes/
+├── Orwell-1984_1949.en.notes-by-John.md
+├── Orwell-1984_1949.zh.notes-by-Li.md
+├── Hawking-ABriefHistoryOfTime_1988.en.notes-by-Jane.md
+└── README.md
+```
 
 ## Contributing
 

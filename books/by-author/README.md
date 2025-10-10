@@ -1,41 +1,30 @@
-# Books Organized by Author
+# Browse by Author
 
 [US English](./README.md) | [CN 中文](./README.zh-CN.md)
 
-**Note**: This folder is an index-only view. Actual e-book files are stored under [library/](../../library/README.md).
+This directory organizes books from our collection by author. Each author has a dedicated subfolder containing a `README.md` that lists their works available in the [`../../library`](../../library/README.md) directory.
 
-This folder contains e-books organized by author's last name. Each author has their own subfolder.
+## How It Works
 
-## Organization Method
+- **Author Folders**: Each subfolder is named after an author (e.g., `Orwell-George`).
+- **Book Lists**: Inside each author's folder, a `README.md` file provides details and links to their books.
 
-- Create subfolders using the author's **last name**
-- For authors with multiple works, all books go in their folder
-- Use format: `LastName-FirstName/` for folder names
+This system allows you to easily discover all works by a specific author in one place.
 
-## Adding Books
+## How to Add an Author
 
-1. Create an author subfolder using format: `LastName-FirstName/`
-2. Add the e-book file(s) to the author's folder
-3. Update the author folder's  [README](../../templates/author-readme-template.md) with book details
+1.  **Create a folder** for the author, named as `LastName-FirstName`. For example: `Orwell-George`.
+2.  **Add a `README.md`** inside the new folder. You can use the [`author-readme-template.md`](../../templates/author-readme-template.md) as a starting point.
+3.  **List the author's books** in the `README.md`, providing links to the actual files in the `library` directory.
 
 ## Example Structure
 
 ```
 by-author/
 ├── Orwell-George/
-│   ├── README.md
-│   ├── Orwell_1984_1949.epub
-│   └── Orwell_AnimalFarm_1945.epub
-├── Hawking-Stephen/
-│   ├── README.md
-│   └── Hawking_ABriefHistoryOfTime_1988.epub
+│   └── README.md  (Lists books like "1984" and "Animal Farm")
 └── Kernighan-Brian/
-    ├── README.md
-    └── Kernighan_TheCProgrammingLanguage_1988.pdf
+    └── README.md  (Lists "The C Programming Language")
 ```
 
-## Benefits of Author-Based Organization
-
-- Easy to find all works by a particular author
-- Simple alphabetical browsing
-- Suitable for collections focused on specific authors
+For more information on the different ways to browse the collection, see the [main book organization page](../README.md).
