@@ -4,6 +4,13 @@
 
 This folder contains speculative fiction — works that explore 'what if' scenarios, alternate realities, and thought experiments.
 
+## Definition & Scope
+Speculative fiction is a broad category of imaginative fiction that explores hypothetical situations, future possibilities, or alternate realities. It includes science fiction, fantasy, and other narratives based on "what if" questions.
+
+## Inclusion Criteria (Optional)
+- Works should primarily be fictional narratives.
+- Works should explore hypothetical or future scenarios.
+
 ## Books in This Genre
 
 ### Nineteen Eighty-Four (1983)

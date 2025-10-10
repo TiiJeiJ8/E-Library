@@ -4,6 +4,14 @@
 
 This folder contains political fiction — novels that focus on political systems, ideologies, and power.
 
+## Definition & Scope
+Political fiction is a genre of literature that centers around political events, figures, or ideas. These works often explore power dynamics, government operations, and the impact of political ideologies on individuals and societies.
+
+## Inclusion Criteria (Optional)
+- Works should be primarily fictional narratives.
+- Works should explore political or social issues.
+- Works should have some literary merit.
+
 ## Books in This Genre
 
 ### Nineteen Eighty-Four (1983)
