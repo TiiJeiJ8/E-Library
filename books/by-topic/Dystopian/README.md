@@ -6,6 +6,11 @@
 
 Books that explore dystopian societies, state control, surveillance, and critiques of totalitarianism.
 
+## Inclusion Criteria (Optional)
+- Works should primarily be fictional narratives.
+- Themes should involve dystopian societies, totalitarianism, surveillance, or related topics.
+- Can include novels, short stories, film scripts, etc.
+
 ## Books in This Topic
 
 ### Nineteen Eighty-Four (1949)

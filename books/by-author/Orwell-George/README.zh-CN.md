@@ -1,4 +1,4 @@
-# 奥威尔·乔治
+# 乔治·奥威尔 (George Orwell)
 
 [EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
