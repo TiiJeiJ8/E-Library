@@ -1,4 +1,4 @@
-# Orwell, George
+# Orwell·George
 
 [EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
@@ -13,7 +13,12 @@
 
 George Orwell was an English novelist, essayist, and critic, best known for his novels examining social injustice and totalitarianism.
 
-## Works in This Collection
+## Writing Themes and Style
+- Core themes: social justice, political oppression, individual freedom, truth and propaganda
+- Style: clear, concise, insightful
+- Typical audience: general readers, political scholars, literature enthusiasts
+
+## Works
 
 ### Nineteen Eighty-Four (1949)
 - **Languages:** en, zh
