@@ -8,7 +8,7 @@ Thank you for your interest in contributing to E-Library! This document provides
 
 For lightweight contributions (like updating indexes, documentation, or metadata), you can **work directly on GitHub** without cloning the repository or setting up a local environment.
 
-##### Method 1: Use the GitHub Web Interface
+#### Method 1: Use the GitHub Web Interface
 
 1. Open the repository page (or your fork).
 2. Click **"Add file" → "Create new file"** in the upper right corner.
@@ -19,13 +19,13 @@ For lightweight contributions (like updating indexes, documentation, or metadata
    - ✅ "Create a new branch for this commit and start a pull request"
 6. Click **"Propose changes"**, and GitHub will guide you to create a Pull Request.
 
-##### Method 2: Edit an Existing File
+#### Method 2: Edit an Existing File
 
 1. Open the file you want to modify (e.g., a `README.md`).
 2. Click the **pencil icon ✏️ (Edit this file)** in the upper right corner.
 3. After making your changes, commit them and create a Pull Request.
 
-##### Method 3: Use the GitHub.dev Online Editor (Shortcut: `.`)
+#### Method 3: Use the GitHub.dev Online Editor (Shortcut: `.`)
 
 1. On the repository page, press the `.` (period) key.
    GitHub will open a web-based VS Code editor.

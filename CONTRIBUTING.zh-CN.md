@@ -6,11 +6,9 @@
 
 ## 如何贡献
 
-### 添加新电子书
-
 如果你只想进行轻量贡献（如修改索引、更新文档、添加元数据），可以**直接在线上完成**，无需克隆仓库或配置本地环境。
 
-#####  方法一：使用 GitHub 网页界面
+####  方法一：使用 GitHub 网页界面
 
 1. 打开仓库页面（或你的 Fork）。
 2. 点击右上角 **“Add file” → “Create new file”**。
@@ -21,13 +19,13 @@
 - ✅ “Create a new branch for this commit and start a pull request”
 6. 点击 **“Propose changes”**，GitHub 会自动引导你创建 Pull Request。
 
-#####  方法二：修改现有文件
+####  方法二：修改现有文件
 
 1. 打开要修改的文件（如某个 `README.md`）。
 2. 点击右上角的 **铅笔图标 ✏️（Edit this file）**。
 3. 修改内容后，直接提交（commit）并发起 Pull Request。
 
-#####  方法三：使用 GitHub.dev 在线编辑器（快捷键：`.`）
+####  方法三：使用 GitHub.dev 在线编辑器（快捷键：`.`）
 
 1. 在仓库页面按下键盘 `.`（英文句号）。
 GitHub 会打开网页版 VS Code 编辑器。
