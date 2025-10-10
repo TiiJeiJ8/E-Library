@@ -1,35 +1,36 @@
-# Speculative-Fiction
+# Speculative Fiction
 
 [EN English](./README.md) | [CN 中文](./README.zh-CN.md)
 
-This folder contains speculative fiction — works that explore 'what if' scenarios, alternate realities, and thought experiments.
+This folder contains fictional works built upon **hypothetical or alternate realities**.
+Speculative fiction explores scientific, social, political, historical, or human possibilities through the question: *“What if…?”*
 
 ## Definition & Scope
-Speculative fiction is a broad category of imaginative fiction that explores hypothetical situations, future possibilities, or alternate realities. It includes science fiction, fantasy, and other narratives based on "what if" questions.
+Speculative fiction is a **broad literary category** encompassing all narrative works that begin with a premise different from reality.
+It includes—but is not limited to—**science fiction, fantasy, dystopian fiction, utopian fiction, and magical realism**.
+Speculative fiction emphasizes **thought experiments** and **hypothetical world-building**, serving as a major medium for exploring the limits of human society and consciousness.
 
 ## Inclusion Criteria
-- Works should primarily be fictional narratives.
-- Works should explore hypothetical or future scenarios.
+- The work should be based on a **hypothetical premise** or **non-realistic condition**.
+- The premise may arise from **scientific, political, social, historical, or metaphysical** contexts.
+- Scientific or fantastical elements may appear, but the focus should remain on **reflection and extrapolation** rather than pure spectacle.
+- The work should embody the spirit of a **thought experiment**, rather than aim solely for entertainment.
 
-## Books in This Genre
+## Subgenres
 
-### Nineteen Eighty-Four (1983)
-- **Author:** George Orwell
-- **Year:** 1983
-- **Language:** en, zh
-- **Book Link:**
-    - [`../../../library/Orwell-George/1984-1983/Orwell_1984_1983.zh.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
-    - [`../../../library/Orwell-George/1984-1983/Orwell_1984_1983.en.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
-- **Summary:**
-    - [`../../../../docs/summaries/Orwell_1984_1983.en.md`](../../../../docs/summaries/Orwell_1984_1949.en.md)
-    - [`../../../../docs/summaries/Orwell_1984_1983.zh.md`](../../../../docs/summaries/Orwell_1984_1949.zh.md)
-- **Reading Notes:**
-- **Description:** A speculative exploration of a future society under total surveillance.
+- **Science Fiction** - [`./Science-Fiction/`](./Science-Fiction/README.md)
+  Focuses on speculative scenarios grounded in science, technology, or cosmic laws.
+  Representative works include *2001: A Space Odyssey* and *The Three-Body Problem*.
 
-[Add more books as needed]
+- **Dystopian Fiction** - [`./Dystopian-Fiction/`](./Dystopian-Fiction/README.md)
+  Depicts oppressive or totalitarian societies, often as a critique of real-world power structures.
+  Representative works include *Nineteen Eighty-Four*, *Brave New World*, and *The Handmaid’s Tale*.
+
+[Add additional subgenres or bibliographies as needed.]
 
 ---
-Maintainer:
-    - [TiiJeiJ8](https://github.com/TiiJeiJ8), <Github Sign your name here>
+
+Maintainers:
+  - [TiiJeiJ8](https://github.com/TiiJeiJ8), <Add your signature on GitHub>
 
 Last updated: 2025-10-10

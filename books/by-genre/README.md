@@ -44,7 +44,7 @@ For more information on the different ways to browse the collection, see the [ma
 ### B
 
 ### C
-- [Classic Literature](./Fiction/Classic-Literature/README.md)
+- [Classic Literature](./Classic-Literature/README.md)
 - 
 ### D
 
