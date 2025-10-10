@@ -27,6 +27,16 @@ Place the e-book file (e.g., `.epub`, `.pdf`) into the `library/` directory. Ple
 
 After the book file is uploaded, you need to create its index and related documentation. **This step can be done entirely through the web interface, without cloning the repository.**
 
+> You will need to prepare:
+> - Basic book information (author, title, year, format, etc.)
+> - A README document for the author category (if the author already exists, add to their file; otherwise, create a new one).
+> - A README document for the genre category (if the genre already exists, add to its file; otherwise, create a new one).
+> - A README document for the topic category (if the topic already exists, add to its file; otherwise, create a new one).
+> - A book summary document (stored in the `docs/summaries/` directory).
+> **Additionally, you must check and update the parent folder's `README` file**:
+    - If you add a new sub-genre `Political-Fiction` under `books/by-genre/Fiction/`, ensure you add a link to it in `Fiction`'s `README.md`.
+    - If you add a new author under `books/by-author/`, ensure you add a link to the author's folder in `by-author/README.md`.
+
 1.  **Create an index in `books/`**:
     -   Create or update the corresponding `README.md` file under `books/by-author/`, `books/by-genre/`, and `books/by-topic/` to add the book's information.
     -   When creating an index entry, please ensure you include the following information:
