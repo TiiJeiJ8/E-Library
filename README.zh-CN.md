@@ -5,6 +5,9 @@
 一个开放的、由社区共建的 GitHub 仓库，用于存储、管理和共享电子书文件。本项目鼓励贡献者上传、整理并维护共享书库。我们提供清晰的文件结构、元数据模板和贡献指南，帮助保持收藏的有序、易查找并符合法律合规要求。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Contributors](https://img.shields.io/github/contributors/TiiJeiJ8/E-Library.svg)](https://github.com/TiiJeiJ8/E-Library/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/TiiJeiJ8/E-Library.svg)](https://github.com/TiiJeiJ8/E-Library/commits/main)
+[![Downloads](https://img.shields.io/github/downloads/TiiJeiJ8/E-Library/total.svg)](https://github.com/TiiJeiJ8/E-Library/releases)
 
 ## 📖 关于
 
@@ -149,6 +152,12 @@ AuthorLastName_BookTitle_Year.ext
 ## 🙏 致谢
 
 感谢所有贡献者，帮助建立并维护这个协作数字图书馆！
+
+<a href="https://github.com/TiiJeiJ8/E-Library/graphs/contributors">
+  <p align="center">
+    <img width="500" src="https://contrib.rocks/image?repo=TiiJeiJ8/E-Library" alt="A table of avatars from the project's contributors" />
+  </p>
+</a>
 
 ---
 

@@ -5,6 +5,9 @@
 An open, community-built GitHub repository for storing, managing, and sharing electronic book files. This project is designed to let contributors upload, curate, and maintain a collective e-book library. We provide clear folder structure, metadata templates, and contribution guidelines to keep the collection organized, discoverable, and legally compliant.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Contributors](https://img.shields.io/github/contributors/TiiJeiJ8/E-Library.svg)](https://github.com/TiiJeiJ8/E-Library/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/TiiJeiJ8/E-Library.svg)](https://github.com/TiiJeiJ8/E-Library/commits/main)
+[![Downloads](https://img.shields.io/github/downloads/TiiJeiJ8/E-Library/total.svg)](https://github.com/TiiJeiJ8/E-Library/releases)
 
 ## 📖 About
 
@@ -149,6 +152,13 @@ Individual books retain their original copyrights and licenses.
 ## 🙏 Acknowledgments
 
 Thank you to all contributors who help build and maintain this collaborative digital library!
+
+
+<a href="https://github.com/TiiJeiJ8/E-Library/graphs/contributors">
+  <p align="center">
+    <img width="500" src="https://contrib.rocks/image?repo=TiiJeiJ8/E-Library" alt="A table of avatars from the project's contributors" />
+  </p>
+</a>
 
 ---
 
