@@ -1,12 +1,12 @@
 # Reading Notes: [Book Title]
 
-[US English](./reading-notes-template.md) | [CN 中文](./reading-notes-template.zh-CN.md)
+[EN English](./reading-notes-template.md) | [CN 中文](./reading-notes-template.zh-CN.md)
 
-**Author:** [Author Name]  
-**Reader:** [Your Name]  
-**Date:** [Date when notes were taken]  
-**Format:** [PDF/EPUB/MOBI/etc.]  
-**Location:** `library/[author-or-structure]/[book-folder]/[filename]`  
+**Author:** [Author Name]
+**Reader:** [Your Name]
+**Date:** [Date when notes were taken]
+**Format:** [PDF/EPUB/MOBI/etc.]
+**Location:** `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
 **Spoilers:** [None/Mild/Heavy]
 
 ## Initial Thoughts

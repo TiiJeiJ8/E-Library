@@ -1,6 +1,6 @@
 # 书库（Library）
 
-[US English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 此文件夹用于存放实际的电子书文件（PDF/EPUB/MOBI/AZW 等）。
 
@@ -14,8 +14,9 @@
 library/
   Author-Last-Name-First-Name/
     Book-Title-YYYY/
-      AuthorLastName_BookTitle_Year.pdf
-      AuthorLastName_BookTitle_Year.epub
+      AuthorLastName_BookTitle_Year.CN.pdf
+      AuthorLastName_BookTitle_Year.EN.epub
+      AuthorLastName_BookTitle_YYYY.<language>.ext
 ```
 
 ## 注意

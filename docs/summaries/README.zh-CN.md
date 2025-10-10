@@ -1,6 +1,6 @@
 # 书籍摘要
 
-[US English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 本文件夹包含库中可用书籍的简要摘要和概述。
 

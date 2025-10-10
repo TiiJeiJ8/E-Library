@@ -1,6 +1,6 @@
 # 参与贡献 — E-Library
 
-[US English](./CONTRIBUTING.md) | [CN 中文](./CONTRIBUTING.zh-CN.md)
+[EN English](./CONTRIBUTING.md) | [CN 中文](./CONTRIBUTING.zh-CN.md)
 
 感谢你对 E-Library 的关注与贡献！本文件为添加电子书与改进仓库提供指南。
 

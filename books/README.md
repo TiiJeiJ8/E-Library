@@ -1,6 +1,6 @@
 # Book Organization
 
-[US English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 Welcome to the E-Library's book organization center. This directory helps you browse and discover books stored in the [`../library`](../library/README.md) folder, while related documents like summaries and notes are in the [`../docs`](../docs/README.md) folder.
 

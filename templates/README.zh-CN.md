@@ -1,5 +1,7 @@
 # 模板
 
+[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+
 此文件夹包含用于帮助贡献者在 E-Library 中保持文档一致性的模板。
 
 ## 可用模板

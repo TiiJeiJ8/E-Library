@@ -1,6 +1,6 @@
 # [Genre Name]
 
-[US English](./genre-readme-template.md) | [CN 中文](./genre-readme-template.zh-CN.md)
+[EN English](./genre-readme-template.md) | [CN 中文](./genre-readme-template.zh-CN.md)
 
 This folder contains [Genre Name] books.
 
@@ -18,7 +18,7 @@ This folder contains [Genre Name] books.
 ### [Book Title 1]
 - **Author:** [Author Name]
 - **Year:** [Year]
-- **File:** `[filename]`
+- **Book Link:** `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
 - **Summary:** `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
 - **Reading Notes:** `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
 - **Description:** [Brief description]
@@ -26,7 +26,7 @@ This folder contains [Genre Name] books.
 ### [Book Title 2]
 - **Author:** [Author Name]
 - **Year:** [Year]
-- **File:** `[filename]`
+- **Book Link:** `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
 - **Summary:** `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
 - **Reading Notes:** `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
 - **Description:** [Brief description]

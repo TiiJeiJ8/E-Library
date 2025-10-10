@@ -1,6 +1,6 @@
 # 按流派浏览
 
-[US English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 此目录按流派组织我们收藏的书籍。每个流派都有一个专门的子文件夹，其中包含一个 `README.md` 文件，列出了 [`../../library`](../../library/README.zh-CN.md) 目录中该类型的所有可用书籍。
 

@@ -1,18 +1,18 @@
 # [Book Title]
 
-[US English](./book-summary-template.md) | [CN 中文](./book-summary-template.zh-CN.md)
+[EN English](./book-summary-template.md) | [CN 中文](./book-summary-template.zh-CN.md)
 
-**Author:** [Author Name]  
-**Year:** [Publication Year]  
-**Edition:** [Edition/Printing, optional]  
-**Pages:** [Total pages, optional]  
-**ISBN:** [ISBN-10/13, optional]  
-**Format:** [PDF/EPUB/MOBI/etc.]  
-**Level:** [Beginner/Intermediate/Advanced]  
-**Prerequisites:** [What readers should know first, optional]  
-**Genre:** [Genre]  
-**Topics:** [topic1, topic2]  
-**Location:** `library/[author-or-structure]/[book-folder]/[filename]`
+**Author:** [Author Name]
+**Year:** [Publication Year]
+**Edition:** [Edition/Printing, optional]
+**Pages:** [Total pages, optional]
+**ISBN:** [ISBN-10/13, optional]
+**Format:** [PDF/EPUB/MOBI/etc.]
+**Level:** [Beginner/Intermediate/Advanced]
+**Prerequisites:** [What readers should know first, optional]
+**Genre:** [Genre]
+**Topics:** [topic1, topic2]
+**Location:** `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
 
 ## Overview
 

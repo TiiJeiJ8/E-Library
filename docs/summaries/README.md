@@ -1,6 +1,6 @@
 # Book Summaries
 
-[US English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 This folder contains brief summaries and overviews of books available in the library.
 

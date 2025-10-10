@@ -1,6 +1,6 @@
 # 作者：姓氏, 名字（原名：原文字）
 
-[US English](./author-readme-template.md) | [CN 中文](./author-readme-template.zh-CN.md)
+[EN English](./author-readme-template.md) | [CN 中文](./author-readme-template.zh-CN.md)
 
 ## 元数据
 
@@ -28,6 +28,7 @@
 - 文件：`[library 中的相对路径.xxx]`
 - 类别：[类别]
 - 主题：[主题1, 主题2]
+- 书籍链接：`../library/作者/[书名-年份]/作者_书名_年份.<语言>.ext`
 - 摘要：`../../docs/summaries/作者-书名_年份.[语言].md`
 - 阅读笔记：`../../docs/reading-notes/作者-书名_年份.[语言].notes-by-[贡献者].md`
 - 简介：[1–2 句描述]
@@ -36,6 +37,7 @@
 - 文件：`[library 中的相对路径.xxx]`
 - 类别：[类别]
 - 主题：[主题1, 主题2]
+- 书籍链接：`../library/作者/[书名-年份]/作者_书名_年份.<语言>.ext`
 - 摘要：`../../docs/summaries/作者-书名_年份.[语言].md`
 - 阅读笔记：`../../docs/reading-notes/作者-书名_年份.[语言].notes-by-[贡献者].md`
 - 简介：[1–2 句描述]

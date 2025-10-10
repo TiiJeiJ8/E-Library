@@ -1,6 +1,6 @@
 # 阅读笔记
 
-[US English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 本文件夹包含有关库中书籍的详细阅读笔记、见解与摘录。
 

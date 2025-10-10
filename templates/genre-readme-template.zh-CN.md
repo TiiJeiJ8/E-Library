@@ -1,6 +1,6 @@
 # [类别名称]
 
-[US English](./book-summary-template.md) | [CN 中文](./book-summary-template.zh-CN.md)
+[EN English](./book-summary-template.md) | [CN 中文](./book-summary-template.zh-CN.md)
 
 本文件夹包含属于 **[类别名称]** 的书籍。
 
@@ -18,7 +18,7 @@
 ### [书名 1]
 - **作者：** [作者姓名]
 - **年份：** [年份]
-- **文件：** `[文件名]`
+- **书籍链接** `../library/作者/[书名-年份]/作者_书名_年份.<语言>.ext`
 - **摘要：** `../../docs/summaries/作者-书名_年份.[语言].md`
 - **阅读笔记：** `../../docs/reading-notes/作者-书名_年份.[语言].notes-by-[贡献者].md`
 - **简介：** [简短描述]
@@ -26,7 +26,7 @@
 ### [书名 2]
 - **作者：** [作者姓名]
 - **年份：** [年份]
-- **文件：** `[文件名]`
+- **书籍链接** `../library/作者/[书名-年份]/作者_书名_年份.<语言>.ext`
 - **摘要：** `../../docs/summaries/作者-书名_年份.[语言].md`
 - **阅读笔记：** `../../docs/reading-notes/作者-书名_年份.[语言].notes-by-[贡献者].md`
 - **简介：** [简短描述]

@@ -1,6 +1,6 @@
 # Reading Notes
 
-[US English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 This folder contains detailed reading notes, insights, and highlights from books in the library.
 

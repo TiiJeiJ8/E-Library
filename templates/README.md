@@ -1,6 +1,6 @@
 # Templates
 
-[US English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 This folder contains templates to help contributors maintain consistency when adding documentation to the E-Library.
 

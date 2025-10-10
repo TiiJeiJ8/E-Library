@@ -1,12 +1,12 @@
 # 阅读笔记： [书名]
 
-[US English](./reading-notes-template.md) | [CN 中文](./reading-notes-template.zh-CN.md)
+[EN English](./reading-notes-template.md) | [CN 中文](./reading-notes-template.zh-CN.md)
 
-**作者：** [作者姓名]  
-**笔记作者：** [你的名字]  
-**日期：** [笔记记录日期]  
-**格式：** [PDF/EPUB/MOBI/等]  
-**位置：** `library/[作者或结构]/[书目文件夹]/[文件名]`  
+**作者：** [作者姓名]
+**笔记作者：** [你的名字]
+**日期：** [笔记记录日期]
+**格式：** [PDF/EPUB/MOBI/等]
+**书籍链接：** `../library/作者/[书名-年份]/作者_书名_年份.<语言>.ext`
 **剧透程度：** [无/轻度/较多]
 
 ## 初步想法

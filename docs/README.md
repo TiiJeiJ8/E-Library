@@ -1,6 +1,6 @@
 # Documentation
 
-[US English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 This folder contains additional documentation for books in the library, including summaries and reading notes.
 

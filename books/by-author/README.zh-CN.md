@@ -1,6 +1,6 @@
 # 按作者浏览
 
-[US English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
 
 此目录按作者组织我们收藏的书籍。每位作者都有一个专门的子文件夹，其中包含一个 `README.md` 文件，列出了他们在 [`../../library`](../../library/README.zh-CN.md) 目录中可用的作品。
 
