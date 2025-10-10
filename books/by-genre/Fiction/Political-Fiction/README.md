@@ -14,17 +14,17 @@ Political fiction is a genre of literature that centers around political events,
 
 ## Books in This Genre
 
-### Nineteen Eighty-Four (1983)
+### Nineteen Eighty-Four (1949)
 - **Author:** George Orwell
-- **Year:** 1983
+- **Year:** 1949
 - **Language:** en, zh
 - **Book Link:**
-    - [`../../../library/Orwell-George/1984-1983/Orwell_1984_1983.zh.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
-    - [`../../../library/Orwell-George/1984-1983/Orwell_1984_1983.en.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
+    - [`../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
+    - [`../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
     - 
 - **Summary:**
-    - [`../../../../docs/summaries/Orwell_1984_1983.en.md`](../../../../docs/summaries/Orwell_1984_1949.en.md)
-    - [`../../../../docs/summaries/Orwell_1984_1983.zh.md`](../../../../docs/summaries/Orwell_1984_1949.zh.md)
+    - [`../../../../docs/summaries/Orwell_1984_1949.en.md`](../../../../docs/summaries/Orwell_1984_1949.en.md)
+    - [`../../../../docs/summaries/Orwell_1984_1949.zh.md`](../../../../docs/summaries/Orwell_1984_1949.zh.md)
     - 
 - **Reading Notes:**
 - **Description:** A political dystopian novel exploring totalitarian control and surveillance.
