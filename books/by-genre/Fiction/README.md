@@ -16,10 +16,6 @@ Fiction generally refers to narrative literary works that are primarily imaginat
 - **Political-Fiction** - [`./Political-Fiction/`](./Political-Fiction/README.md)
 - **Speculative-Fiction** - [`./Speculative-Fiction/`](./Speculative-Fiction/README.md)
 
-## Representative Works
-
-- See sub-genres for detailed listings. You may add a short list of representative titles here or create new sub-genres.
-
 ---
 Maintainer:
     - [TiiJeiJ8](https://github.com/TiiJeiJ8), <Github Sign your name here>

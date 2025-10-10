@@ -16,10 +16,6 @@
 - **政治小说** - [`./Political-Fiction/`](./Political-Fiction/README.zh-CN.md)
 - **未来社会科幻式预言** - [`./Speculative-Fiction/`](./Speculative-Fiction/README.zh-CN.md)
 
-## 代表作品
-
-- 详细列表见子流派页面。您也可以在此处添加代表书目或创建新的子流派。
-
 ---
 维护者：
   - [TiiJeiJ8](https://github.com/TiiJeiJ8), <Github 留下你的签名>
