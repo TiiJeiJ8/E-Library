@@ -20,11 +20,9 @@ Speculative fiction is a broad category of imaginative fiction that explores hyp
 - **Book Link:**
     - [`../../../library/Orwell-George/1984-1983/Orwell_1984_1983.zh.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
     - [`../../../library/Orwell-George/1984-1983/Orwell_1984_1983.en.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
-    - 
 - **Summary:**
     - [`../../../../docs/summaries/Orwell_1984_1983.en.md`](../../../../docs/summaries/Orwell_1984_1949.en.md)
     - [`../../../../docs/summaries/Orwell_1984_1983.zh.md`](../../../../docs/summaries/Orwell_1984_1949.zh.md)
-    - 
 - **Reading Notes:**
 - **Description:** A speculative exploration of a future society under total surveillance.
 
