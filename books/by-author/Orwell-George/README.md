@@ -25,8 +25,8 @@ George Orwell was an English novelist, essayist, and critic, best known for his 
 - **Genre:** Fiction, Dystopian
 - **Topics:** totalitarianism, surveillance, political fiction
 - **Book Link：**
-    - [`../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3`](../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
-    - [`../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3`](../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
+    - [`../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3`](../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
+    - [`../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3`](../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
 - **Summary：**
     - [`../../../docs/summaries/Orwell-1984_1949.en.md`](../../../docs/summaries/Orwell_1984_1949.en.md)
     - [`../../../docs/summaries/Orwell-1984_1949.zh.md`](../../../docs/summaries/Orwell_1984_1949.zh.md)
