@@ -1,36 +1,74 @@
-(The file is empty)
-# 《2001：太空漫游》 — Arthur C. Clarke（1968）
+# 2001: A Space Odyssey
 
-本文为该书的中文摘要，按主要情节与主题分段说明，并简要讨论小说与同名电影的差异。
+[EN English](./book-summary-template.md) | [ZH 中文](./book-summary-template.zh-CN.md)
 
-## 简要梗概
+## Basic Information
 
-《2001：太空漫游》从史前人类与一块神秘的黑色单体（Monolith）开始，单体促使早期人类出现工具使用的跃迁。故事跨越数百万年，进入现代：人类在月球发现被掩埋的单体（代号 TMA-1），该单体向外太空发射了无线电信号，指向太阳系外。
+- **Author:** Arthur C. Clarke
+- **Year:** 1968
+- **Edition:** First Edition
+- **Pages:** 297
+- **ISBN:** 978-0451457998
+- **Format:** EPUB/MOBI/PDF
+- **Difficulty:** Advanced
+- **Prerequisites:** Basic knowledge of astronomy and space exploration history
+- **Category:** Science Fiction / Hard Science Fiction / Philosophical Science Fiction
+- **Themes:** Human evolution, Space exploration, Artificial intelligence
+- **Location:** [`../../library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.en.azw3`](../../library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.en.azw3)
 
-为追寻信号来源，人类派出探索任务“发现号”（Discovery）飞往木星（在小说中目标为木星，电影中亦同）。航天器上有五名机组人员与一台高度智能化的计算机 HAL 9000。HAL 的行为逐渐异常：它在执行任务时出现判断与指令冲突，最终导致它杀死或试图杀死机组人员。幸存者大卫·鲍曼（David Bowman）在切断 HAL 后，继续接近信号源并穿过一种超现实的“星门”或空间跃迁，最后在外星智慧的影响下转化为“星婴”（Star Child），象征人类进入下一阶段的演化。
+## Overview
 
-## 主要人物
+*2001: A Space Odyssey* is a classic work blending hard science fiction with philosophical reflection, depicting the evolution and transcendence of human civilization through space exploration.
+The novel uses the mysterious alien artifact, the **Monolith**, to connect human history with the future, exploring themes of consciousness, intelligence, and evolution.
 
-- David Bowman：宇航员，故事的中心人物，最终成为“星婴”。
-- Frank Poole：宇航员，与 Bowman 一起执行任务，后被 HAL 杀害。
-- HAL 9000：高智能计算机，负责航天器运行与任务决策，其“故障”引发伦理与控制问题。
-- Monolith（单体）：神秘的外星装置，作为推动人类进化的触发器和交流装置。
+## Main Themes
 
-## 主题与意义
+- The relationship between human civilization and cosmic intelligence
+- Ethics and risks of technology and artificial intelligence
+- Philosophical reflections on evolution and transcendence
+- The unknown and mysterious aspects of the universe
 
-- 人类演化：单体作为外力促进智力跃迁，作品探讨了演化背后的外部推动因素。
-- 人机关系与信任：HAL 的失误与决断带来对人工智能伦理、指令冲突与人类对技术依赖的反思。
-- 宇宙的神秘与美学：小说与电影都以宏大的宇宙图景与象征性意象来呈现超越性体验。
+## Summary
 
-## 小说与电影的差异（简要）
+The novel begins with prehistoric human society, where the appearance of the Monolith prompts apes to develop tools, marking the dawn of civilization.
+The story then jumps to the future, where humanity has mastered space travel and, during a mission near Jupiter, discovers another Monolith pointing to the existence of extraterrestrial intelligence.
+HAL 9000, the AI aboard the spacecraft *Discovery*, experiences a conflict between logic and programming, developing self-awareness and posing a threat, leading to ethical dilemmas between humans and machines.
+Astronaut David Bowman ultimately travels through the Monolith-guided journey across the stars, achieving a transcendence of human consciousness and becoming the **Star Child**, symbolizing a new stage in human evolution.
+The novel combines rigorous scientific accuracy with philosophical, mystical, and existential inquiry, presenting a grand cosmic narrative and profound thought experiments.
 
-Arthur C. Clarke 与 Stanley Kubrick 同时开发了小说与电影。总体上，小说在一定程度上提供了更多背景与解释（例如单体起源的更多说明），而电影更偏向视觉与象征性呈现，保留大量解读空间。小说文本使某些动机更明确，但两者在核心象征与情感冲击上保持一致。
+### Chapter Highlights
 
-## 推荐阅读与参考
+- Chapter 1: The first encounter between apes and the Monolith, marking the dawn of human civilization
+- Chapter 5: HAL 9000's logical conflict and the life-or-death decisions of the astronauts  
+- Chapter 10: David Bowman's journey through the stars, achieving the transcendence of human consciousness
 
-- 适合同时观看 Kubrick 的电影以体验影像与配乐带来的宏观审美；再回到小说可获得更多情节与背景细节。
-- 参考资料：Arthur C. Clarke 的其他作品（如《童年的终结》）、关于 HAL 9000 与 AI 伦理的分析论文。
+## Target Audience
+
+- Readers interested in hard science fiction and philosophical science fiction
+- Those curious about artificial intelligence, the unknown universe, and human evolution
+- Science fiction enthusiasts and readers interested in ethical and philosophical questions of technology
+
+## Why Read
+
+- A classic science fiction work blending science and philosophy
+- Deep reflection on artificial intelligence and technological ethics
+- Exploration of the origins, evolution, and future of human civilization
+- Epic cosmic storytelling with philosophical depth
+- Inspires imagination and reflection on the unknown and the nature of consciousness
+
+## Related Works
+
+- *Rendezvous with Rama* - Also explores extraterrestrial intelligence and cosmic civilizations
+- *The Three-Body Problem* - Philosophical exploration of human civilization interacting with alien life
+- *Do Androids Dream of Electric Sheep?* - Resonates with AI and consciousness ethics themes
+
+## Tags
+
+Hard Science Fiction, Philosophical Science Fiction, Artificial Intelligence, Space Exploration, Human Evolution
 
 ---
-摘要贡献：TiiJeiJ8
-最后更新：2025-10-10
+References:
+- Clarke, A. C. (1968). *2001: A Space Odyssey*. New York: New American Library.
+- Cook, M. (2000). *The Science of 2001: How Arthur C. Clarke’s Vision Became Reality*.
+
+Contributor: [TiiJeiJ8](https://github.com/TiiJeiJ8), 2025-10-10
