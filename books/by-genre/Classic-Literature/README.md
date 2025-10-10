@@ -8,7 +8,7 @@ This folder collects classic literature — works that have enduring literary si
 
 [Brief description of what constitutes classic literature in this collection: canonical works, historically influential novels, and texts of sustained academic or cultural interest.]
 
-## Inclusion Criteria (Optional)
+## Inclusion Criteria
 
 - Works of recognized literary merit or historical importance
 - Editions and translations should be clearly labeled with language and year
@@ -30,11 +30,6 @@ This folder collects classic literature — works that have enduring literary si
 - **Description:** A dystopian novel that explores a totalitarian regime's surveillance and control over truth.
 
 [Add more books or create sub-genres as needed]
-
-## Sub-Genres (Optional)
-
-- **[Sub-Genre 1]** - `./[sub-genre-folder-name]/`
-- **[Sub-Genre 2]** - `./[sub-genre-folder-name]/`
 
 ---
 Maintainer:

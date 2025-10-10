@@ -7,7 +7,7 @@ This folder contains fiction books in the collection. Fiction is a broad categor
 ## Definition & Scope
 Fiction generally refers to narrative literary works that are primarily imaginative or invented. They can be long or short, and are intended to entertain, inspire, or provide insights into the human experience.
 
-## Inclusion Criteria (Optional)
+## Inclusion Criteria
 - Works should be primarily narrative and imaginative.
 - Can cover a wide range of themes and styles, but should focus on storytelling.
 
@@ -16,9 +16,9 @@ Fiction generally refers to narrative literary works that are primarily imaginat
 - **Political-Fiction** - [`./Political-Fiction/`](./Political-Fiction/README.md)
 - **Speculative-Fiction** - [`./Speculative-Fiction/`](./Speculative-Fiction/README.md)
 
-## Representative Works (Optional)
+## Representative Works
 
-- See sub-genres for detailed listings. You may add a short list of representative titles here.
+- See sub-genres for detailed listings. You may add a short list of representative titles here or create new sub-genres.
 
 ---
 Maintainer:

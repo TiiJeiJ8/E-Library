@@ -6,7 +6,7 @@
 
 Books that explore dystopian societies, state control, surveillance, and critiques of totalitarianism.
 
-## Inclusion Criteria (Optional)
+## Inclusion Criteria
 - Works should primarily be fictional narratives.
 - Themes should involve dystopian societies, totalitarianism, surveillance, or related topics.
 - Can include novels, short stories, film scripts, etc.

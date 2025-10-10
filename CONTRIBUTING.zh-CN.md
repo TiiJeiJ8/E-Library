@@ -36,9 +36,14 @@
         -   **格式**：文件格式
         -   **描述**：简短摘要（2–3 句）
         -   **主题/标签**：相关关键词
-    -   您可以使用模板来快速开始：[`author-readme-template.zh-CN.md`](./templates/author-readme-template.zh-CN.md)
+    -   您可以使用模板来快速开始：[`author-readme-template.md`](./templates/author-readme-template.zh-CN.md)
 
-2.  **（可选）在 `docs/` 目录下添加摘要或笔记**：
+2.  **在 `docs/` 目录下添加摘要**：
+	-   在 `docs/summaries/` 下创建一个新的 Markdown 文件，命名为 `AuthorLastName_BookTitle_Year.md`。
+	-   在文件中包含书籍的简要摘要、主要主题和任何其他相关信息。
+	-   您可以使用 [`summary-template.md`](./templates/book-summary-template.zh-CN.md) 作为起点。
+
+3.  **（可选）在 `docs/` 目录下添加笔记**：
     -   在 `docs/summaries/` 或 `docs/reading-notes/` 下创建对应的文件。
     -   请遵循这两个目录中 `README.md` 规定的文件命名约定。
 

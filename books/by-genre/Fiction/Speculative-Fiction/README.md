@@ -7,7 +7,7 @@ This folder contains speculative fiction — works that explore 'what if' scenar
 ## Definition & Scope
 Speculative fiction is a broad category of imaginative fiction that explores hypothetical situations, future possibilities, or alternate realities. It includes science fiction, fantasy, and other narratives based on "what if" questions.
 
-## Inclusion Criteria (Optional)
+## Inclusion Criteria
 - Works should primarily be fictional narratives.
 - Works should explore hypothetical or future scenarios.
 

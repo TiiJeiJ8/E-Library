@@ -38,7 +38,12 @@ After the book file is uploaded, you need to create its index and related docume
         -   **Topics/Tags**: Relevant keywords
     -   You can use a template to get started quickly: [`author-readme-template.md`](./templates/author-readme-template.md)
 
-2.  **(Optional) Add a summary or notes in `docs/`**:
+2.  **Add a summary in `docs/`**:
+   -   Create a new Markdown file under `docs/summaries/`, named `AuthorLastName_BookTitle_Year.md`.
+   -   Include a brief summary of the book, key themes, and any other relevant information.
+   -   You can use [`summary-template.md`](./templates/book-summary-template.md) as a starting point.
+
+3.  **(Optional) Add a notes in `docs/`**:
     -   Create a corresponding file under `docs/summaries/` or `docs/reading-notes/`.
     -   Please follow the file naming conventions specified in the `README.md` of those directories.
 
