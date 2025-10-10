@@ -33,15 +33,15 @@ To support multilingual contributions and credit authors, please use the followi
 
 This convention ensures that summaries for the same book in different languages are grouped together while remaining distinct.
 
--   **English Example**: `Orwell-1984_1949.en.md`
--   **Chinese Example**: `Orwell-1984_1949.zh.md`
+-   **English Example**: `Orwell-1984_1983.en.md`
+-   **Chinese Example**: `Orwell-1984_1983.zh.md`
 
 ## Example Structure
 
 ```
 summaries/
-├── Orwell-1984_1949.en.md
-├── Orwell-1984_1949.zh.md
+├── Orwell-1984_1983.en.md
+├── Orwell-1984_1983.zh.md
 ├── Hawking-ABriefHistoryOfTime_1988.en.md
 └── README.md
 ```

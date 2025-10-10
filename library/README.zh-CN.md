@@ -14,8 +14,8 @@
 library/
   Author-Last-Name-First-Name/
     Book-Title-YYYY/
-      AuthorLastName_BookTitle_Year.CN.pdf
-      AuthorLastName_BookTitle_Year.EN.epub
+      AuthorLastName_BookTitle_Year.cn.pdf
+      AuthorLastName_BookTitle_Year.en.epub
       AuthorLastName_BookTitle_YYYY.<language>.ext
 ```
 

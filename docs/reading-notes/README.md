@@ -34,15 +34,15 @@ To accommodate notes from different contributors in multiple languages, please f
 
 This format helps organize notes by book, language, and contributor.
 
--   **English Example**: `Orwell-1984_1949.en.notes-by-John.md`
--   **Chinese Example**: `Orwell-1984_1949.zh.notes-by-Li.md`
+-   **English Example**: `Orwell-1984_1983.en.notes-by-John.md`
+-   **Chinese Example**: `Orwell-1984_1983.zh.notes-by-Li.md`
 
 ## Example Structure
 
 ```
 reading-notes/
-├── Orwell-1984_1949.en.notes-by-John.md
-├── Orwell-1984_1949.zh.notes-by-Li.md
+├── Orwell-1984_1983.en.notes-by-John.md
+├── Orwell-1984_1983.zh.notes-by-Li.md
 ├── Hawking-ABriefHistoryOfTime_1988.en.notes-by-Jane.md
 └── README.md
 ```
