@@ -1,6 +1,6 @@
 # Book Summaries
 
-[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
 This folder contains brief summaries and overviews of books available in the library.
 
@@ -33,15 +33,15 @@ To support multilingual contributions and credit authors, please use the followi
 
 This convention ensures that summaries for the same book in different languages are grouped together while remaining distinct.
 
--   **English Example**: `Orwell_1984_1983.en.md`
--   **Chinese Example**: `Orwell_1984_1983.zh.md`
+-   **English Example**: `Orwell_1984_1949.en.md`
+-   **Chinese Example**: `Orwell_1984_1949.zh.md`
 
 ## Example Structure
 
 ```
 summaries/
-├── Orwell_1984_1983.en.md
-├── Orwell_1984_1983.zh.md
+├── Orwell_1984_1949.en.md
+├── Orwell_1984_1949.zh.md
 ├── Hawking_ABriefHistoryOfTime_1988.en.md
 └── README.md
 ```

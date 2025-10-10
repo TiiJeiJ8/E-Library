@@ -1,6 +1,6 @@
 # [Sub-Genre Name]
 
-[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
 This folder contains books belonging to the **[Sub-Genre Name]** sub-genre, which is a branch of **[Parent Genre Name]**.
 
@@ -13,6 +13,7 @@ This folder contains books belonging to the **[Sub-Genre Name]** sub-genre, whic
 ### [Book Title 1]
 - **Author:** [Author Name]
 - **Year:** [Year]
+- **Language:** [Language]
 - **Book Link:** `../../../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
 - **Summary:** `../../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
 - **Reading Notes:** `../../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`

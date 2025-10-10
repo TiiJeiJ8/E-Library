@@ -1,6 +1,6 @@
 # 书库（Library）
 
-[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
 此文件夹用于存放实际的电子书文件（PDF/EPUB/MOBI/AZW 等）。
 

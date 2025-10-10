@@ -1,6 +1,6 @@
 # Reading Notes
 
-[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
 This folder contains detailed reading notes, insights, and highlights from books in the library.
 
@@ -34,15 +34,15 @@ To accommodate notes from different contributors in multiple languages, please f
 
 This format helps organize notes by book, language, and contributor.
 
--   **English Example**: `Orwell-1984_1983.en.notes-by-John.md`
--   **Chinese Example**: `Orwell-1984_1983.zh.notes-by-Li.md`
+-   **English Example**: `Orwell-1984_1949.en.notes-by-John.md`
+-   **Chinese Example**: `Orwell-1984_1949.zh.notes-by-Li.md`
 
 ## Example Structure
 
 ```
 reading-notes/
-├── Orwell-1984_1983.en.notes-by-John.md
-├── Orwell-1984_1983.zh.notes-by-Li.md
+├── Orwell-1984_1949.en.notes-by-John.md
+├── Orwell-1984_1949.zh.notes-by-Li.md
 ├── Hawking-ABriefHistoryOfTime_1988.en.notes-by-Jane.md
 └── README.md
 ```

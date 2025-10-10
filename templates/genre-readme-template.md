@@ -1,6 +1,6 @@
 # [Genre Name]
 
-[EN English](./genre-readme-template.md) | [CN 中文](./genre-readme-template.zh-CN.md)
+[EN English](./genre-readme-template.md) | [ZH 中文](./genre-readme-template.zh-CN.md)
 
 This folder contains [Genre Name] books.
 
@@ -21,6 +21,7 @@ This folder contains [Genre Name] books.
 ### [Book Title 1]
 - **Author:** [Author Name]
 - **Year:** [Year]
+- **Language:** [Language]
 - **Book Link:** `[Adjust path based on depth](../../../library/...)`
 - **Summary:** `[Adjust path based on depth](../../../docs/summaries/...)`
 - **Reading Notes:** `[Adjust path based on depth](../../../docs/reading-notes/...)`

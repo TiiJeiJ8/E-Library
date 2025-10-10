@@ -1,6 +1,6 @@
 # Reading Notes: [Book Title]
 
-[EN English](./reading-notes-template.md) | [CN 中文](./reading-notes-template.zh-CN.md)
+[EN English](./reading-notes-template.md) | [ZH 中文](./reading-notes-template.zh-CN.md)
 
 **Author:** [Author Name]
 **Reader:** [Your Name]

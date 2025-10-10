@@ -1,6 +1,6 @@
 # E-Library 📚
 
-[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
 An open, community-built GitHub repository for storing, managing, and sharing electronic book files. This project is designed to let contributors upload, curate, and maintain a collective e-book library. We provide clear folder structure, metadata templates, and contribution guidelines to keep the collection organized, discoverable, and legally compliant.
 

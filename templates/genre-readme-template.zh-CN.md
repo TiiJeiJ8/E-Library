@@ -1,6 +1,6 @@
 # [类别名称]
 
-[EN English](./book-summary-template.md) | [CN 中文](./book-summary-template.zh-CN.md)
+[EN English](./book-summary-template.md) | [ZH 中文](./book-summary-template.zh-CN.md)
 
 本文件夹包含属于 **[类别名称]** 的书籍。
 
@@ -21,6 +21,7 @@
 ### [书名 1]
 - **作者：** [作者姓名]
 - **出版年份：** [出版年份]
+- **语言** : [语言]
 - **书籍链接** `[根据层级调整路径](../../../library/...)`
 - **摘要：** `[根据层级调整路径](../../../docs/summaries/...)`
 - **阅读笔记：** `[根据层级调整路径](../../../docs/reading-notes/...)`

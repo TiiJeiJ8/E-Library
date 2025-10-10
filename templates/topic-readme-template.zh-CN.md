@@ -1,6 +1,6 @@
 # [主题名称]
 
-[EN English](./topic-readme-template.md) | [CN 中文](./topic-readme-template.zh-CN.md)
+[EN English](./topic-readme-template.md) | [ZH 中文](./topic-readme-template.zh-CN.md)
 
 ## 定义与范围
 
@@ -16,6 +16,7 @@
 ### [书名 1]
 - **作者：** [作者姓名]
 - **出版年份：** [出版年份]
+- **语言** : [语言]
 - **书籍链接：** `../library/作者/[书名-出版年份]/作者_书名_出版年份.<语言>.ext`
 - **摘要：** `../../docs/summaries/作者-书名_出版年份.[语言].md`
 - **阅读笔记：** `../../docs/reading-notes/作者-书名_出版年份.[语言].notes-by-[贡献者].md`
@@ -24,6 +25,7 @@
 ### [书名 2]
 - **作者：** [作者姓名]
 - **出版年份：** [出版年份]
+- **语言** : [语言]
 - **书籍链接：** `../library/作者/[书名-出版年份]/作者_书名_出版年份.<语言>.ext`
 - **摘要：** `../../docs/summaries/作者-书名_出版年份.[语言].md`
 - **阅读笔记：** `../../docs/reading-notes/作者-书名_出版年份.[语言].notes-by-[贡献者].md`

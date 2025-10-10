@@ -1,6 +1,6 @@
 # 文档
 
-[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
 本文件夹包含图书馆中与书籍相关的附加文档，包括书籍摘要和阅读笔记。
 

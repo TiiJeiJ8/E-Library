@@ -1,6 +1,6 @@
 # 阅读笔记
 
-[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
 本文件夹包含有关库中书籍的详细阅读笔记、见解与摘录。
 
@@ -34,15 +34,15 @@
 
 此格式有助于按书籍、语言和贡献者来组织笔记。
 
--   **英文示例**: `Orwell-1984_1983.en.notes-by-John.md`
--   **中文示例**: `Orwell-1984_1983.zh.notes-by-Li.md`
+-   **英文示例**: `Orwell-1984_1949.en.notes-by-John.md`
+-   **中文示例**: `Orwell-1984_1949.zh.notes-by-Li.md`
 
 ## 示例结构
 
 ```
 reading-notes/
-├── Orwell-1984_1983.en.notes-by-John.md
-├── Orwell-1984_1983.zh.notes-by-Li.md
+├── Orwell-1984_1949.en.notes-by-John.md
+├── Orwell-1984_1949.zh.notes-by-Li.md
 ├── Hawking-ABriefHistoryOfTime_1988.en.notes-by-Jane.md
 └── README.md
 ```

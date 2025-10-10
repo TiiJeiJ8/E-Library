@@ -1,6 +1,6 @@
 # [Topic Name]
 
-[EN English](./topic-readme-template.md) | [CN 中文](./topic-readme-template.zh-CN.md)
+[EN English](./topic-readme-template.md) | [ZH 中文](./topic-readme-template.zh-CN.md)
 
 ## Definition & Scope
 
@@ -16,6 +16,7 @@
 ### [Book Title 1]
 - **Author:** [Author Name]
 - **Year:** [Year]
+- **Language:** [Language]
 - **Book Link:** `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
 - **Summary:** `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
 - **Reading Notes:** `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
@@ -24,6 +25,7 @@
 ### [Book Title 2]
 - **Author:** [Author Name]
 - **Year:** [Year]
+- **Language:** [Language]
 - **Book Link:** `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
 - **Summary:** `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
 - **Reading Notes:** `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`

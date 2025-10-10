@@ -1,6 +1,6 @@
 # Browse by Genre
 
-[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
 This directory organizes books from our collection by genre. Each genre has a dedicated subfolder containing a `README.md` that lists all books of that type available in the [`../../library`](../../library/README.md) directory.
 

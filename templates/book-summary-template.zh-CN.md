@@ -1,6 +1,6 @@
 # [书名]
 
-[EN English](./book-summary-template.md) | [CN 中文](./book-summary-template.zh-CN.md)
+[EN English](./book-summary-template.md) | [ZH 中文](./book-summary-template.zh-CN.md)
 
 **作者：** [作者姓名]
 **年份：** [出版年份]

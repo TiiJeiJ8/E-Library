@@ -1,6 +1,6 @@
 # 书籍摘要
 
-[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
 本文件夹包含库中可用书籍的简要摘要和概述。
 
@@ -33,15 +33,15 @@
 
 此约定可确保同一本书的不同语言摘要能够被归类在一起，同时保持区分。
 
--   **英文示例**: `Orwell_1984_1983.en.md`
--   **中文示例**: `Orwell_1984_1983.zh.md`
+-   **英文示例**: `Orwell_1984_1949.en.md`
+-   **中文示例**: `Orwell_1984_1949.zh.md`
 
 ## 示例结构
 
 ```
 summaries/
-├── Orwell_1984_1983.en.md
-├── Orwell_1984_1983.zh.md
+├── Orwell_1984_1949.en.md
+├── Orwell_1984_1949.zh.md
 ├── Hawking_ABriefHistoryOfTime_1988.en.md
 └── README.md
 ```

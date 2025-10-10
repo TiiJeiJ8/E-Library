@@ -1,6 +1,6 @@
 # 书籍组织
 
-[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
 欢迎来到 E-Library 的书籍组织中心。此目录可帮助你浏览和发现存储在 [`../library`](../library/README.zh-CN.md) 文件夹中的书籍，而相关的文档（如摘要和笔记）则位于 [`../docs`](../docs/README.zh-CN.md) 文件夹中。
 

@@ -1,6 +1,6 @@
 # Library
 
-[EN English](./README.md) | [CN 中文](./README.zh-CN.md)
+[EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
 This folder is the canonical location for storing actual e-book files (PDF/EPUB/MOBI/AZW, etc.).
 
