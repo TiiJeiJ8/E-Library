@@ -154,7 +154,7 @@ AuthorLastName_BookTitle_Year.ext
 感谢所有贡献者，帮助建立并维护这个协作数字图书馆！
 
 <a href="https://github.com/TiiJeiJ8/E-Library/graphs/contributors">
-  <p align="center">
+  <p align="left">
     <img width="500" src="https://contrib.rocks/image?repo=TiiJeiJ8/E-Library" alt="A table of avatars from the project's contributors" />
   </p>
 </a>

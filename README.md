@@ -155,7 +155,7 @@ Thank you to all contributors who help build and maintain this collaborative dig
 
 
 <a href="https://github.com/TiiJeiJ8/E-Library/graphs/contributors">
-  <p align="center">
+  <p align="left">
     <img width="500" src="https://contrib.rocks/image?repo=TiiJeiJ8/E-Library" alt="A table of avatars from the project's contributors" />
   </p>
 </a>
