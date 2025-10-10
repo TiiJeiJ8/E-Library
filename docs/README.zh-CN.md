@@ -6,8 +6,8 @@
 
 ## 文件夹
 
-- **summaries/** - 书籍的简要摘要与概述
-- **reading-notes/** - 详细的阅读笔记、见解与摘录
+- **summaries/** - [书籍的简要摘要与概述](./summaries/README.zh-CN.md)
+- **reading-notes/** - [详细的阅读笔记、见解与摘录](./reading-notes/README.zh-CN.md)
 
 ## 目的
 

@@ -6,8 +6,8 @@ This folder contains additional documentation for books in the library, includin
 
 ## Folders
 
-- **summaries/** - Brief summaries and overviews of books
-- **reading-notes/** - Detailed reading notes, insights, and highlights
+- **summaries/** - [Brief summaries and overviews of books](./summaries/README.md)
+- **reading-notes/** - [Detailed reading notes, insights, and highlights](./reading-notes/README.md)
 
 ## Purpose
 

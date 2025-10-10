@@ -38,5 +38,58 @@ by-genre/
 For more information on the different ways to browse the collection, see the [main book organization page](../README.md).
 
 ## Genre List (Alphabetical by Name)
+
+### A
+
+### B
+
+### C
 - [Classic Literature](./Fiction/Classic-Literature/README.md)
+- 
+### D
+
+### E
+
+### F
 - [Fiction](./Fiction/README.md)
+- 
+### G
+
+### H
+
+### I
+
+### J
+
+### K
+
+### L
+
+### M
+
+### N
+
+### O
+
+### P
+
+### Q
+
+### R
+
+### S
+
+### T
+
+### U
+
+### V
+
+### W
+
+### X
+
+### Y
+
+### Z
+

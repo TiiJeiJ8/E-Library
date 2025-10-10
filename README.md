@@ -60,31 +60,42 @@ E-Library/
 
 ### For Readers
 
-1. **Browse the Collection**: Navigate through `books/` using your preferred organization method:
-   - `by-genre/` - Browse by genre (Fiction, Technical, Science, etc.)
-   - `by-author/` - Find books by specific authors
-   - `by-topic/` - Explore books on specific subjects
+Getting a book from E-Library is easy.
 
-2. **Read Summaries**: Check `docs/summaries/` for quick overviews before downloading
+1.  **Find a Book to Read**
+    Use our "Quick Jump" section or the links below to browse the collection:
+    *   [By Genre](./books/by-genre/README.md)
+    *   [By Author](./books/by-author/README.md)
+    *   [By Topic](./books/by-topic/README.md)
 
-3. **Clone or Download**: 
-   ```bash
-   git clone https://github.com/TiiJeiJ8/E-Library.git
-   ```
-   or
-   download the very book files you need directly from GitHub.
+2.  **Learn More About It**
+    Want to know if a book is right for you? Check out the [summaries](./docs/summaries/README.md) for a quick overview.
+
+3.  **Get Your Copy**
+    You have two options:
+    *   **Download a Single Book**: Navigate to the book file you want in the [`library/`](./library/README.md) directory and download it directly from your browser.
+    *   **Download the Entire Library**: If you want a copy of everything, you can clone the entire repository using Git:
+      ```bash
+      git clone https://github.com/TiiJeiJ8/E-Library.git
+      ```
 
 ### For Contributors
 
-We welcome contributions! Here's how to add books:
+Want to help grow our library? We'd love your help! Here’s how you can add a new book:
 
-1. **Fork** this repository
-2. **Choose** the appropriate organization folder
-3. **Add** your e-book file following our naming convention
-4. **Document** your addition (update README, add summary)
-5. **Submit** a pull request
+1.  **Fork the Repository**
+    Create your own copy of this project to work on.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+2.  **Add the Book File**
+    Place your e-book file (e.g., PDF, EPUB) into the `library/` directory. Please follow the [File Naming Convention](#-file-naming-convention).
+
+3.  **Create Index Entries and Documentation**
+    Make the book discoverable by adding it to the index files in `books/` and creating a summary in `docs/summaries/`. Use our [templates](./templates/README.md) to keep everything consistent.
+
+4.  **Submit a Pull Request**
+    Propose your changes to the main repository. We'll review them and merge them in.
+
+For more detailed instructions, please read our full **[Contributing Guide](./CONTRIBUTING.md)**.
 
 ## 📋 File Naming Convention
 

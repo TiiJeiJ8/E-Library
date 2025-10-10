@@ -62,29 +62,42 @@ E-Library/
 
 ### 读者
 
-1. **浏览收藏**：通过 `books/` 中的组织方式浏览：
-   - `by-genre/` - 按流派浏览（小说、技术、科学等）
-   - `by-author/` - 查找特定作者的书籍
-   - `by-topic/` - 探索特定主题的书籍
+从 E-Library 获取书籍非常简单。
 
-2. **阅读摘要**：在 `docs/summaries/` 查看快速概述
+1.  **找到想读的书**
+    通过“快速跳转”或以下链接浏览书库：
+    *   [按流派浏览](./books/by-genre/README.zh-CN.md)
+    *   [按作者浏览](./books/by-author/README.zh-CN.md)
+    *   [按主题浏览](./books/by-topic/README.zh-CN.md)
 
-3. **克隆或下载：**
-   ```bash
-   git clone https://github.com/TiiJeiJ8/E-Library.git
-   ```
+2.  **了解书籍内容**
+    想知道一本书是否适合你？可以先查看 [书籍摘要](./docs/summaries/README.zh-CN.md) 来快速了解。
+
+3.  **获取你的副本**
+    你有两种选择：
+    *   **下载单本书**：在 [`library/`](./library/README.zh-CN.md) 目录中找到你想要的书籍文件，然后直接从浏览器下载。
+    *   **下载整个书库**：如果你想拥有所有书籍的副本，可以使用 Git 克隆整个仓库：
+      ```bash
+      git clone https://github.com/TiiJeiJ8/E-Library.git
+      ```
 
 ### 贡献者
 
-我们欢迎贡献！添加书籍的步骤：
+想帮助我们扩充书库吗？我们非常欢迎你的加入！以下是添加新书的步骤：
 
-1. **Fork** 本仓库
-2. **选择** 合适的组织文件夹
-3. **添加** 电子书文件，遵循命名规范
-4. **记录** 你的添加（更新 README，添加摘要）
-5. **提交** Pull Request
+1.  **Fork 本仓库**
+    创建你自己的项目副本以便开展工作。
 
-详见 [CONTRIBUTING.md](CONTRIBUTING.md)
+2.  **添加书籍文件**
+    将你的电子书文件（如 PDF、EPUB）放入 `library/` 目录。请务必遵循我们的[文件命名规范](#-文件命名规范)。
+
+3.  **创建索引条目和文档**
+    在 `books/` 目录下的索引文件中添加书籍条目，并在 `docs/summaries/` 中为其创建摘要，以便他人发现。请使用我们的[模板](./templates/README.zh-CN.md)来保持格式统一。
+
+4.  **提交 Pull Request**
+    将你的更改提议到主仓库，我们会进行审核并合并。
+
+更详细的说明，请阅读完整的 **[贡献指南](./CONTRIBUTING.zh-CN.md)**。
 
 ## 📋 文件命名规范
 
