@@ -2,6 +2,8 @@
 
 [EN English](./book-summary-template.md) | [ZH 中文](./book-summary-template.zh-CN.md)
 
+## 基本信息
+
 **作者：** [作者姓名]
 **年份：** [出版年份]
 **版次：** [版本/印次， 可选]

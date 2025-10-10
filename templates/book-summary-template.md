@@ -2,6 +2,8 @@
 
 [EN English](./book-summary-template.md) | [ZH 中文](./book-summary-template.zh-CN.md)
 
+## Basic Information
+
 **Author:** [Author Name]
 **Year:** [Publication Year]
 **Edition:** [Edition/Printing, optional]
