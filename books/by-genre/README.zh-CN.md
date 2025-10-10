@@ -38,5 +38,5 @@ by-genre/
 有关浏览馆藏的不同方法的更多信息，请参阅[书籍组织主页](../README.zh-CN.md)。
 
 ## 流派列表（按字母顺序）
-- [经典文学](./Fiction/Classic-Literature/README.zh-CN.md)
+- [经典文学](./Classic-Literature/README.zh-CN.md)
 - [小说](./Fiction/README.zh-CN.md)
