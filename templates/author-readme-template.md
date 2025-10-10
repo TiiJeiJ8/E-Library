@@ -20,7 +20,7 @@
 - Style: [concise/technical/literary/etc.]
 - Typical audience: [students/researchers/general readers]
 
-## Works in This Collection
+## Works
 
 For actual files see the library folder; this page indexes entries.
 
