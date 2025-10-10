@@ -51,6 +51,7 @@ E-Library/
 ### 快速跳转
 
 - [书库](./library/README.zh-CN.md) — 实际电子书文件存放处
+- [书籍](./books/README.zh-CN.md) — 按流派、作者或主题浏览书籍
 - [按流派浏览书籍](./books/by-genre/README.zh-CN.md)
 - [按作者浏览书籍](./books/by-author/README.zh-CN.md)
 - [按主题浏览书籍](./books/by-topic/README.zh-CN.md)

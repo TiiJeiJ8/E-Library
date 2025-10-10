@@ -49,6 +49,7 @@ E-Library/
 ### Quick Jump
 
 - [Library](./library/README.md) — Actual e-book files live here
+- [Books](./books/README.md) — Browse books by genre, author, or topic
 - [Books by genre](./books/by-genre/README.md)
 - [Books by author](./books/by-author/README.md)
 - [Books by topic](./books/by-topic/README.md)
