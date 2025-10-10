@@ -24,7 +24,7 @@
 2. 将书籍文件放入对应文件夹
 3. 更新该文件夹的 README，添加书籍信息
 
-详细指南见 [CONTRIBUTING.md](../CONTRIBUTING.md)
+详细指南见 [CONTRIBUTING.md](../CONTRIBUTING.zh-CN.md)
 
 ## 查找书籍
 
