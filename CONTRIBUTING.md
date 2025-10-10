@@ -48,6 +48,12 @@ When adding a book, please include:
 - Maintain consistent naming and organization
 - Test that files open correctly
 
+### Bilingual Guidance
+
+- Prefer single-file bilingual sections for small pages, or separate `README.md` and `README.zh-CN.md` for larger content. For larger content, split into two files: `README.md` and `README.<language>-<region>.md`.
+- Keep metadata consistent across languages.
+- Note: At least one version must be in English.
+
 ### Code of Conduct
 
 Please be respectful and constructive in all interactions. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
