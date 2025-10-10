@@ -15,23 +15,24 @@ This folder contains [Genre Name] books.
 
 ## Books in This Genre
 
+<!-- For a top-level genre, this section can list representative works or be left empty in favor of sub-genres. -->
+<!-- For a sub-genre, this section is essential. -->
+
 ### [Book Title 1]
 - **Author:** [Author Name]
 - **Year:** [Year]
-- **Book Link:** `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
-- **Summary:** `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
-- **Reading Notes:** `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
-- **Description:** [Brief description]
-
-### [Book Title 2]
-- **Author:** [Author Name]
-- **Year:** [Year]
-- **Book Link:** `../library/Author/[Book-Title-YYYY]/AuthorLastName_BookTitle_YYYY.<language>.ext`
-- **Summary:** `../../docs/summaries/Author-BookTitle_YYYY.[lang].md`
-- **Reading Notes:** `../../docs/reading-notes/Author-BookTitle_YYYY.[lang].notes-by-[Contributor].md`
+- **Book Link:** `[Adjust path based on depth](../../../library/...)`
+- **Summary:** `[Adjust path based on depth](../../../docs/summaries/...)`
+- **Reading Notes:** `[Adjust path based on depth](../../../docs/reading-notes/...)`
 - **Description:** [Brief description]
 
 [Add more books as needed]
+
+## Sub-Genres (Optional)
+
+<!-- If this is a broad parent genre, list its sub-genres here. -->
+- **[Sub-Genre 1]** - `./[sub-genre-folder-name]/`
+- **[Sub-Genre 2]** - `./[sub-genre-folder-name]/`
 
 ## Curation Notes (Optional)
 
@@ -40,8 +41,8 @@ This folder contains [Genre Name] books.
 
 ## Related Genres
 
-- [Related Genre 1] - `../[folder-name]/`
-- [Related Genre 2] - `../[folder-name]/`
+- **[Related Genre 1]** - `../[sibling-genre-folder-name]/` (Link to a sibling genre)
+- **[Related Genre 2]** - `../../[other-top-level-genre]/` (Link to another top-level genre)
 
 ---
 Maintainer: [Your Name]  •  Last updated: [Date]
