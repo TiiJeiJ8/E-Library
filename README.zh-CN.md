@@ -51,13 +51,13 @@ E-Library/
 ### 快速跳转
 
 - [书库](./library/README.zh-CN.md) — 实际电子书文件存放处
-- [按流派浏览书籍](./books/by-genre/README.md)
-- [按作者浏览书籍](./books/by-author/README.md)
-- [按主题浏览书籍](./books/by-topic/README.md)
-- [书籍摘要](./docs/summaries/README.md)
-- [阅读笔记](./docs/reading-notes/README.md)
-- [模板](./templates/README.md)
-- [贡献指南](./CONTRIBUTING.md)
+- [按流派浏览书籍](./books/by-genre/README.zh-CN.md)
+- [按作者浏览书籍](./books/by-author/README.zh-CN.md)
+- [按主题浏览书籍](./books/by-topic/README.zh-CN.md)
+- [书籍摘要](./docs/summaries/README.zh-CN.md)
+- [阅读笔记](./docs/reading-notes/README.zh-CN.md)
+- [模板](./templates/README.zh-CN.md)
+- [贡献指南](./CONTRIBUTING.zh-CN.md)
 
 ### 读者
 
