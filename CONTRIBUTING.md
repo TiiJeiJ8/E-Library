@@ -20,8 +20,9 @@ Adding a new book involves two main steps: uploading the book file and creating 
 #### Step 1: Add the Book File to `library/`
 
 Place the e-book file (e.g., `.epub`, `.pdf`) into the sub-repository [E-Library-Books-Repo](https://github.com/TiiJeiJ8/E-Library-Books-Repo) `library/` directory. Please follow a clear directory structure, such as `library/Author-LastName-FirstName/Book-Title-YYYY/`.
+For online uploads, refer to GitHub's "Creating new files" tutorial: [Creating new files](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files)
 
-> 💡 **Tip**: For small files (< 25MB), you can use the **"Add file" → "Upload files"** feature on the GitHub website to upload them directly. For larger files, you will need to clone the repository locally to add them.
+> 💡 **Tip**: For small files (< 100MB), you can use the **"Add file" → "Upload files"** feature on the GitHub website to upload them directly. For larger files, you will need to clone the repository locally to add them.
 
 #### Step 2: Create the Index and Documentation
 
