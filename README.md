@@ -4,6 +4,8 @@
 
 An open, community-built GitHub repository for storing, managing, and sharing electronic book files. This project is designed to let contributors upload, curate, and maintain a collective e-book library. We provide clear folder structure, metadata templates, and contribution guidelines to keep the collection organized, discoverable, and legally compliant.
 
+We hope you find valuable resources here and will be happy to contribute to this project!😄
+
 <div align="center">
    <a href="https://opensource.org/licenses/MIT">
       <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />

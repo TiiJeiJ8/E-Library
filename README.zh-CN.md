@@ -4,6 +4,8 @@
 
 一个开放的、由社区共建的 GitHub 仓库，用于存储、管理和共享电子书文件。本项目鼓励贡献者上传、整理并维护共享书库。我们提供清晰的文件结构、元数据模板和贡献指南，帮助保持收藏的有序、易查找并符合法律合规要求。
 
+希望你能在这里找到有价值的资源，并乐于为这个项目做出贡献。
+
 <div align="center">
    <a href="https://opensource.org/licenses/MIT">
       <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
