@@ -2,7 +2,7 @@
 
 [EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
-此目录按作者组织我们收藏的书籍。每位作者都有一个专门的子文件夹，其中包含一个 `README.md` 文件，列出了他们在 [`../../library`](../../library/README.zh-CN.md) 目录中可用的作品。
+此目录按作者组织我们收藏的书籍。每位作者都有一个专门的子文件夹，其中包含一个 `README.md` 文件，列出了他们在子仓 [E-Library-Books-Repo/library](https://github.com/TiiJeiJ8/E-Library-Books-Repo/tree/main/library) 目录中可用的作品。
 
 ## 工作原理
 
@@ -15,7 +15,7 @@
 
 1.  **创建作者文件夹**，命名格式为 `姓-名`。例如：`Orwell-George`。
 2.  在新文件夹内**添加 `README.md` 文件**。您可以使用 [`author-readme-template.zh-CN.md`](../../templates/author-readme-template.zh-CN.md) 作为起点。
-3.  在 `README.md` 中**列出作者的书籍**，并提供指向 `library` 目录中实际文件的链接。
+3.  在 `README.md` 中**列出作者的书籍**，并提供指向子仓 [E-Library-Books-Repo/library](https://github.com/TiiJeiJ8/E-Library-Books-Repo/tree/main/library) 目录中实际文件的链接。
 
 ## 示例结构
 

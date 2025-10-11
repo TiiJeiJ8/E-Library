@@ -2,20 +2,20 @@
 
 [EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
-This directory organizes books from our collection by author. Each author has a dedicated subfolder containing a `README.md` that lists their works available in the [`../../library`](../../library/README.md) directory.
+This directory organizes the books in our collection by author. Each author has a dedicated subfolder, which contains a `README.md` file listing the works they have available in the subrepository [E-Library-Books-Repo/library](https://github.com/TiiJeiJ8/E-Library-Books-Repo/tree/main/library).
 
 ## How It Works
 
-- **Author Folders**: Each subfolder is named after an author (e.g., `Orwell-George`).
-- **Book Lists**: Inside each author's folder, a `README.md` file provides details and links to their books.
+- **Author Folder**: Each subfolder is named after the author's name (e.g., `Orwell-George`).
+- **Books List**: Inside each author's folder, a `README.md` file provides detailed information about their books and links to the actual files in the [E-Library-Books-Repo/library](https://github.com/TiiJeiJ8/E-Library-Books-Repo/tree/main/library) directory.
 
-This system allows you to easily discover all works by a specific author in one place.
+This system makes it easy to discover all works by a specific author in one place.
 
 ## How to Add an Author
 
-1.  **Create a folder** for the author, named as `LastName-FirstName`. For example: `Orwell-George`.
-2.  **Add a `README.md`** inside the new folder. You can use the [`author-readme-template.md`](../../templates/author-readme-template.md) as a starting point.
-3.  **List the author's books** in the `README.md`, providing links to the actual files in the `library` directory.
+1. **Create an Author Folder**, named in the format `LastName-FirstName`. For example: `Orwell-George`.
+2. Inside the new folder, **add a `README.md` file**. You can use the [`author-readme-template.en.md`](../../templates/author-readme-template.en.md) as a starting point.
+3. In the `README.md` file, **list the author's books** and provide links to the actual files in the [E-Library-Books-Repo/library](https://github.com/TiiJeiJ8/E-Library-Books-Repo/tree/main/library) directory.
 
 ## Example Structure
 
