@@ -82,10 +82,10 @@ Getting a book from E-Library is easy.
         git clone https://github.com/TiiJeiJ8/E-Library-Books-Repo.git
         ```
     Optional: if you prefer to keep the main repo and the books repo together in your workspace, you can add the books repo as a git submodule inside this repo:
-        ```powershell
-        git submodule add https://github.com/TiiJeiJ8/E-Library-Books-Repo.git library
-        git submodule update --init --recursive
-        ```
+    ```powershell
+    git submodule add https://github.com/TiiJeiJ8/E-Library-Books-Repo.git library
+    git submodule update --init --recursive
+    ```
 
 ### For Contributors
 
