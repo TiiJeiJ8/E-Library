@@ -50,7 +50,7 @@ E-Library/
 
 ### 快速跳转
 
-- [书库](./library/README.zh-CN.md) — 实际电子书文件存放处
+- [书库](https://github.com/TiiJeiJ8/E-Library-Books-Repo) — 实际电子书文件存放处（子仓）
 - [书籍](./books/README.zh-CN.md) — 按流派、作者或主题浏览书籍
 - [按流派浏览书籍](./books/by-genre/README.zh-CN.md)
 - [按作者浏览书籍](./books/by-author/README.zh-CN.md)
@@ -74,12 +74,20 @@ E-Library/
     想知道一本书是否适合你？可以先查看 [书籍摘要](./docs/summaries/README.zh-CN.md) 来快速了解。
 
 3.  **获取你的副本**
+    注意：为使主仓聚焦于元数据、摘要与模板，实际的电子书文件已迁移到独立的子仓。请使用下方的子仓获取电子书文件。
+
     你有两种选择：
-    *   **下载单本书**：在 [`library/`](./library/README.zh-CN.md) 目录中找到你想要的书籍文件，然后直接从浏览器下载。
-    *   **下载整个书库**：如果你想拥有所有书籍的副本，可以使用 Git 克隆整个仓库：
-      ```bash
-      git clone https://github.com/TiiJeiJ8/E-Library.git
-      ```
+    *   **下载单本书**：访问子仓的 `library/` 目录并直接从浏览器下载：
+        [前往子仓](https://github.com/TiiJeiJ8/E-Library-Books-Repo/README.zh-CN.md)
+    *   **下载/克隆整个书库**：如果你想获取所有电子书文件，可以克隆子仓：
+    ```powershell
+    git clone https://github.com/TiiJeiJ8/E-Library-Books-Repo.git
+    ```
+    可选：如果你希望在本地工作区中将主仓与书籍仓并列管理，可以将子仓作为本仓的子模块添加：
+    ```powershell
+    git submodule add https://github.com/TiiJeiJ8/E-Library-Books-Repo.git library
+    git submodule update --init --recursive
+    ```
 
 ### 贡献者
 

@@ -48,7 +48,7 @@ E-Library/
 
 ### Quick Jump
 
-- [Library](./library/README.md) — Actual e-book files live here
+- [Library](https://github.com/TiiJeiJ8/E-Library-Books-Repo) — Actual e-book files live here (sub-repo)
 - [Books](./books/README.md) — Browse books by genre, author, or topic
 - [Books by genre](./books/by-genre/README.md)
 - [Books by author](./books/by-author/README.md)
@@ -72,12 +72,20 @@ Getting a book from E-Library is easy.
     Want to know if a book is right for you? Check out the [summaries](./docs/summaries/README.md) for a quick overview.
 
 3.  **Get Your Copy**
+    Note: the actual ebook files have been moved to a dedicated sub-repository to keep this main repository focused on metadata, summaries and templates. Use the sub-repo below to download files.
+
     You have two options:
-    *   **Download a Single Book**: Navigate to the book file you want in the [`library/`](./library/README.md) directory and download it directly from your browser.
-    *   **Download the Entire Library**: If you want a copy of everything, you can clone the entire repository using Git:
-      ```bash
-      git clone https://github.com/TiiJeiJ8/E-Library.git
-      ```
+    *   **Download a Single Book**: Visit the sub-repository's `library/` directory and download a book file directly from your browser:
+            https://github.com/TiiJeiJ8/E-Library-Books-Repo/tree/main/library
+    *   **Download/Clone the Entire Books Repo**: If you want a copy of all ebook files, clone the sub-repository:
+        ```powershell
+        git clone https://github.com/TiiJeiJ8/E-Library-Books-Repo.git
+        ```
+    Optional: if you prefer to keep the main repo and the books repo together in your workspace, you can add the books repo as a git submodule inside this repo:
+        ```powershell
+        git submodule add https://github.com/TiiJeiJ8/E-Library-Books-Repo.git library
+        git submodule update --init --recursive
+        ```
 
 ### For Contributors
 
