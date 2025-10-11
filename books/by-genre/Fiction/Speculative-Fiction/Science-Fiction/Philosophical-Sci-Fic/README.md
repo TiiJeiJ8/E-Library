@@ -24,9 +24,9 @@ Philosophical science fiction focuses on ideas and thought experiments. Works in
 - **Author:** Arthur C. Clarke
 - **Year:** 1968
 - **Language:** zh
-- **Book Link:** 
-    - [`../../../../../../library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.zh.azw3`](../../../../../../library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.zh.azw3)
-- **Summaries:** 
+- **Book Link:**
+    - [Chinese Edition](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.zh.azw3)
+- **Summaries:**
     - [`../../../../../../docs/summaries/Clarke_2001-A-Space-Odyssey_1968.en.md`](../../../../../../docs/summaries/Clarke_2001-A-Space-Odyssey_1968.en.md)
     - [`../../../../../../docs/summaries/Clarke_2001-A-Space-Odyssey_1968.zh.md`](../../../../../../docs/summaries/Clarke_2001-A-Space-Odyssey_1968.zh.md)
 - **Reading notes:**

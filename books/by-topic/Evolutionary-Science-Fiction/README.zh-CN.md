@@ -21,7 +21,7 @@
 - **出版年份：** 1968
 - **语言：** zh
 - **书籍链接：**
-    - [`../../../../../library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.zh.azw3`](../../../library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.zh.azw3)
+    - [中文版本](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.zh.azw3)
 - **摘要：**
     - [`../../../docs/summaries/Clarke_2001-A-Space-Odyssey_1968.en.md`](../../../docs/summaries/Clarke_2001-A-Space-Odyssey_1968.en.md)
     - [`../../../docs/summaries/Clarke_2001-A-Space-Odyssey_1968.zh.md`](../../../docs/summaries/Clarke_2001-A-Space-Odyssey_1968.zh.md)

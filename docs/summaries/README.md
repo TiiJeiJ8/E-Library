@@ -110,3 +110,4 @@ We welcome summaries for any book in the library! Please:
 
 ### Other
   - [1984](./Orwell_1984_1949.en.md) - George Orwell (1949)
+  - [2001: A Space Odyssey](./Clarke_2001-A-Space-Odyssey_1968.en.md) - Arthur C. Clarke (1968)

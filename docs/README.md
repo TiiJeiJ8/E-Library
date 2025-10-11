@@ -19,4 +19,4 @@ These documents enhance the usability of the e-library by:
 
 ## Contributing
 
-Feel free to add your own summaries and notes! See the templates folder for formatting guidelines.
+Feel free to add your own summaries and notes! See the [templates](../templates/) folder for formatting guidelines.

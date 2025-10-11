@@ -19,8 +19,8 @@ Political fiction is a genre of literature that centers around political events,
 - **Year:** 1949
 - **Language:** en, zh
 - **Book Link:**
-    - [`../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
-    - [`../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
+    - [English Edition](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
+    - [Chinese Edition](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
     - 
 - **Summary:**
     - [`../../../../docs/summaries/Orwell_1984_1949.en.md`](../../../../docs/summaries/Orwell_1984_1949.en.md)

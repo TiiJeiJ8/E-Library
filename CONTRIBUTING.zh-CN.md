@@ -17,7 +17,7 @@
 
 添加一本新书主要包含两个步骤：上传书籍文件和创建索引条目。
 
-#### 步骤 1：将书籍文件添加到 `library/`
+#### 步骤 1：将书籍文件添加到子仓 [E-Library-Books-Repo](https://github.com/TiiJeiJ8/E-Library-Books-Repo)中的 `library/`
 
 将电子书文件（如 `.epub`, `.pdf`）放入 `library/` 目录。请遵循清晰的目录结构，例如：`library/作者姓-名/书名-出版年份/`。
 

@@ -22,8 +22,8 @@ Dystopian fiction frequently serves as a critique and reflection on contemporary
 - **Publication Year:** 1949
 - **Languages:** en, zh
 - **Book Links:**
-    - [`../../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3`](../../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
-    - [`../../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3`](../../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
+    - [English Edition](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
+    - [Chinese Edition](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
 - **Summaries:**
     - [`../../../../../docs/summaries/Orwell_1984_1949.en.md`](../../../../../docs/summaries/Orwell_1984_1949.en.md)
     - [`../../../../../docs/summaries/Orwell_1984_1949.zh.md`](../../../../../docs/summaries/Orwell_1984_1949.zh.md)

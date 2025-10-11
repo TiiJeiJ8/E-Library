@@ -19,8 +19,8 @@
 - **出版年份：** 1949
 - **语言：** en, zh
 - **书籍链接：**
-    - [`../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
-    - [`../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3`](../../../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
+    - [英文版本](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
+    - [中文版本](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
     - 
 - **摘要：**
     - [`../../../../docs/summaries/Orwell_1984_1949.en.md`](../../../../docs/summaries/Orwell_1984_1949.en.md)

@@ -14,7 +14,7 @@
 - **前置知识：** 了解基础天文学、太空探索历史
 - **类别：** 科幻小说 / 硬科幻 / 哲学科幻
 - **主题：** 人类进化, 宇宙探索, 人工智能
-- **位置：** [`../../library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.zh.azw3`](../../library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.zh.azw3)
+- **位置：** [https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/)
 
 ## 概览
 

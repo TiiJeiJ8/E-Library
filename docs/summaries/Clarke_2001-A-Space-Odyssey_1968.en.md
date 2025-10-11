@@ -14,7 +14,7 @@
 - **Prerequisites:** Basic knowledge of astronomy and space exploration history
 - **Category:** Science Fiction / Hard Science Fiction / Philosophical Science Fiction
 - **Themes:** Human evolution, Space exploration, Artificial intelligence
-- **Location:** [`../../library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.en.azw3`](../../library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/Clarke_2001-A-Space-Odyssey_1968.en.azw3)
+- **Location:** [https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Arthur-Charles-Clarke/2001_A_Space_Odyssey-1968/)
 
 ## Overview
 
@@ -39,7 +39,7 @@ The novel combines rigorous scientific accuracy with philosophical, mystical, an
 ### Chapter Highlights
 
 - Chapter 1: The first encounter between apes and the Monolith, marking the dawn of human civilization
-- Chapter 5: HAL 9000's logical conflict and the life-or-death decisions of the astronauts  
+- Chapter 5: HAL 9000's logical conflict and the life-or-death decisions of the astronauts
 - Chapter 10: David Bowman's journey through the stars, achieving the transcendence of human consciousness
 
 ## Target Audience

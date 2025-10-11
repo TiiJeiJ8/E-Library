@@ -2,7 +2,7 @@
 
 [EN English](./README.md) | [ZH 中文](./README.zh-CN.md)
 
-Welcome to the E-Library's book organization center. This directory helps you browse and discover books stored in the [`../library`](../library/README.md) folder, while related documents like summaries and notes are in the [`../docs`](../docs/README.md) folder.
+Welcome to the E-Library's book organization center. This directory helps you browse and discover books stored in the sub-repository [E-Library-Books-Repo](https://github.com/TiiJeiJ8/E-Library-Books-Repo) folder, while related documents like summaries and notes are in the [`../docs`](../docs/README.md) folder.
 
 ## Organization Methods
 
@@ -19,17 +19,17 @@ Explore books organized by specific subjects or topics.
 
 ## Connecting Books and Documentation
 
-This `books` directory serves as the central index. The actual e-book files are located in [`../library`](../library/README.md). To enrich the collection, we encourage creating:
+This `books` directory serves as the central index. The actual e-book files are located in [E-Library-Books-Repo](https://github.com/TiiJeiJ8/E-Library-Books-Repo). To enrich the collection, we encourage creating:
 
 -   **Book Summaries**: Brief overviews, stored in [`../docs/summaries`](../docs/summaries/README.md).
 -   **Reading Notes**: Detailed thoughts and analysis, stored in [`../docs/reading-notes`](../docs/reading-notes/README.md).
 
-When you add a book to the library and update the index here, please consider contributing a summary or notes to the `docs` folder to help others.
+When you add a book to the [E-Library-Books-Repo](https://github.com/TiiJeiJ8/E-Library-Books-Repo) and update the index here, please consider contributing a summary or notes to the `docs` folder to help others.
 
 ## Finding Books and Documents
 
 -   **Browse Indices**: Use the links above to explore books by genre, author, or topic.
--   **Find Book Files**: All e-book files are located in the [`../library`](../library/README.md) directory.
+-   **Find Book Files**: All e-book files are located in the sub-directory [E-Library-Books-Repo](https://github.com/TiiJeiJ8/E-Library-Books-Repo).
 -   **Read Summaries & Notes**: Visit [`../docs/summaries`](../docs/summaries/README.md) for book overviews and [`../docs/reading-notes`](../docs/reading-notes/README.md) for detailed notes.
 
 ---

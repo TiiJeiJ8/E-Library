@@ -110,3 +110,4 @@ summaries/
 
 ### Other
   - [1984](./Orwell_1984_1949.zh.md) - 乔治·奥威尔 (1949)
+  - [2001: A Space Odyssey](./Clarke_2001-A-Space-Odyssey_1968.zh.md) - 亚瑟·克拉克 (1968)

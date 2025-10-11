@@ -17,9 +17,9 @@ Books that explore dystopian societies, state control, surveillance, and critiqu
 - **Author:** George Orwell
 - **Year:** 1949
 - **Book Link:**
-    - [`../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3`](../../library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
-    - [`../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3`](../../library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
-- **Summary:** 
+    - [English Edition](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Orwell-George/1984-1949/Orwell_1984_1949.en.azw3)
+    - [Chinese Edition](https://github.com/TiiJeiJ8/E-Library-Books-Repo/blob/main/library/Orwell-George/1984-1949/Orwell_1984_1949.zh.azw3)
+- **Summary:**
     - [`../../../docs/summaries/Orwell-1984_1949.en.md`](../../../docs/summaries/Orwell-1984_1949.en.md)
 - **Reading Notes:**
 - **Description:** A foundational dystopian novel about surveillance, propaganda, and state control.
