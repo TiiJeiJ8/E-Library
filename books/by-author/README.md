@@ -32,7 +32,7 @@ For more information on the different ways to browse the collection, see the [ma
 ## Author List (Alphabetical by Last Name)
 
 ### A
-
+- [Arthur C. Clarke](./Clarke-Arthur-C/README.md)
 ### B
 
 ### C

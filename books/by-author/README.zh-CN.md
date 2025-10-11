@@ -32,7 +32,8 @@ by-author/
 ## 作者列表（按姓氏字母顺序）
 
 ### A
-
+- [亚瑟·克拉克](./Clarke-Arthur-C/README.zh-CN.md)
+-
 ### B
 
 ### C
