@@ -22,7 +22,7 @@
 将电子书文件（如 `.epub`, `.pdf`）放入 `library/` 目录。请遵循清晰的目录结构，例如：`library/作者姓-名/书名-出版年份/`。
 相关线上上传可参考 [上传教程](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files)
 
-> 💡 **提示**：对于体积较小的文件（< 100MB），您可以使用 GitHub 网页上的 **"Add file" → "Upload files"** 功能直接上传。对于大文件，则需要克隆仓库到本地再添加。
+> 💡 **提示**：对于体积较小的文件（< 25MB），您可以使用 GitHub 网页上的 **"Add file" → "Upload files"** 功能直接上传。对于大文件，则需要克隆仓库到本地再添加。
 
 #### 步骤 2：创建索引与文档
 
