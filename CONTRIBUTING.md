@@ -13,6 +13,27 @@ All contributions are made via Pull Requests. Whether you are adding a new book 
 3.  **Commit your changes**: Complete and commit your modifications.
 4.  **Open a Pull Request**: Merge your branch into the main repository.
 
+### Automated PR checks (GitHub Actions)
+
+When you open or update a Pull Request against this repository, an automated set of checks will run via GitHub Actions. These checks help keep the repository consistent and catch common problems early. The checks include (but are not limited to):
+
+- Markdown linting and link checking across the repository
+- Spelling checks for Markdown files
+- Repository-specific checks such as:
+    - detecting added ebook binary files (to ensure binaries are placed in the separate books repo)
+    - validating book/author/genre folder naming conventions under `books/`
+    - validating `docs/summaries/` filename formats
+    - detecting references to files in the `library/` (and checking whether they exist in the separate books repo)
+
+If a check fails, a summary will be posted as a comment on the Pull Request and the check details are available in the Actions tab. Please fix the reported issues and push a new commit to the PR — the checks will re-run automatically.
+
+Notes for contributors from forks:
+
+- Workflows triggered by `pull_request` do run on PRs from forks, but GitHub may block access to repository secrets for security reasons. Steps that require secrets (for example, making API calls that use `GITHUB_TOKEN` or creating comments which require write permissions) may not work for forked PRs depending on repository settings. If your PR comes from a fork and you see missing checks or limited behavior, consider:
+    - pushing a branch to your fork and opening a PR from there (usual flow), then asking a repository maintainer to run additional checks if needed; or
+    - opening an issue to request an exception if you need maintainers to help run a check that requires a secret.
+
+
 ### Adding a New Book
 
 Adding a new book involves two main steps: uploading the book file and creating its index entry.
