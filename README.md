@@ -105,6 +105,10 @@ Want to help grow our library? We'd love your help! Here’s how you can add a n
 4.  **Submit a Pull Request**
     Propose your changes to the main repository. We'll review them and merge them in.
 
+Note about automated PR checks
+
+When you open a Pull Request, automated checks (GitHub Actions) run to validate formatting, links, spelling, and repository-specific conventions. Please see `CONTRIBUTING.md` for details on what the checks validate and how to resolve reported issues.
+
 For more detailed instructions, please read our full **[Contributing Guide](./CONTRIBUTING.md)**.
 
 ## 📋 File Naming Convention

@@ -107,6 +107,10 @@ E-Library/
 4.  **提交 Pull Request**
     将你的更改提议到主仓库，我们会进行审核并合并。
 
+关于自动化 PR 检查
+
+当你发起 Pull Request 时，仓库会自动运行一系列检查（GitHub Actions），用于校验格式、链接、拼写以及仓库自定义规范。详情请参阅 `CONTRIBUTING.zh-CN.md`，其中说明了检查内容以及如何修复 CI 报告的问题。
+
 更详细的说明，请阅读完整的 **[贡献指南](./CONTRIBUTING.zh-CN.md)**。
 
 ## 📋 文件命名规范
