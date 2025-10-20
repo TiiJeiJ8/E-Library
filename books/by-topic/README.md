@@ -50,7 +50,8 @@ For more information on the different ways to browse the collection, see the [ma
 ### G
 
 ### H
-
+- [Horror](./Horror/README.md)
+- 
 ### I
 
 ### J

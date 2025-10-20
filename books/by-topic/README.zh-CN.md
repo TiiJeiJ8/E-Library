@@ -51,7 +51,8 @@ by-topic/
 ### G
 
 ### H
-
+- [恐怖](./Horror/README.zh-CN.md)
+-
 ### I
 
 ### J
