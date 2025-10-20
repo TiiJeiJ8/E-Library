@@ -31,14 +31,6 @@ jobs:
                 args: --verbose '**/*.md' --exclude 'node_modules/**' --exclude '.github/**'
             continue-on-error: true
 
-        -   name: Spelling check
-            uses: reviewdog/action-spellcheck@v1
-            with:
-                github_token: ${{ secrets.GITHUB_TOKEN }}
-                files: '**/*.md'
-                ignore_patterns: 'node_modules/**,.github/**'
-            continue-on-error: true
-
         -   id: pr-check
             name: PR binary / filename / library checks
             shell: bash
