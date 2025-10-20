@@ -45,7 +45,7 @@ For more information on the different ways to browse the collection, see the [ma
 
 ### G
 - [George Orwell](./Orwell-George/README.md)
-- 
+-
 ### H
 
 ### I
@@ -61,7 +61,8 @@ For more information on the different ways to browse the collection, see the [ma
 ### N
 
 ### O
-
+- [Otsuichi](./Otsuichi/README.md)
+- 
 ### P
 
 ### Q

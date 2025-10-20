@@ -62,7 +62,8 @@ by-author/
 ### N
 
 ### O
-
+- [Otsuichi](./Otsuichi/README.zh-CN.md)
+- 
 ### P
 
 ### Q

@@ -19,11 +19,14 @@
 - **推想小说** - [`./Speculative-Fiction/`](./Speculative-Fiction/README.zh-CN.md)
   - 包括科幻、反乌托邦、乌托邦和魔幻现实主义等子流派，侧重于“假如……”的设想。
   - 代表作如《2001：太空漫游》《三体》《使女的故事》。
-  
+- **怪诞文学** - [`./Weird-Fiction/`](./Weird-Fiction/README.zh-CN.md)
+  - 融合恐怖、奇幻和超自然元素，营造出异样和不安的氛围。
+  - 代表作如洛夫克拉夫特的作品集。
+
 [根据需要添加更多子流派与书目]
 
 ---
 维护者：
   - [TiiJeiJ8](https://github.com/TiiJeiJ8), <Github 留下你的签名>
 
-最后更新：2025-10-10
+最后更新：2025-10-20
