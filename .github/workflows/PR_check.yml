@@ -1,0 +1,191 @@
+name: E-Library PR Checks
+
+on:
+    pull_request:
+        types: [opened, synchronize, reopened]
+
+jobs:
+    pr-checks:
+        runs-on: ubuntu-latest
+        steps:
+        -   name: Checkout main repo
+            uses: actions/checkout@v4
+            with:
+                fetch-depth: 0
+
+        -   name: Setup Node.js
+            uses: actions/setup-node@v4
+            with:
+                node-version: '18'
+
+        -   name: Install markdownlint-cli
+            run: npm install -g markdownlint-cli
+
+        -   name: Run markdownlint
+            run: markdownlint '**/*.md' --ignore node_modules/** --ignore .github/**
+            continue-on-error: true
+
+        -   name: Run link checker
+            uses: lycheeverse/lychee-action@v1
+            with:
+                args: --verbose '**/*.md' --exclude 'node_modules/**' --exclude '.github/**'
+            continue-on-error: true
+
+        -   name: Spelling check
+            uses: reviewdog/action-spellcheck@v1
+            with:
+                github_token: ${{ secrets.GITHUB_TOKEN }}
+                files: '**/*.md'
+                ignore_patterns: 'node_modules/**,.github/**'
+            continue-on-error: true
+
+        -   id: pr-check
+            name: PR binary / filename / library checks
+            shell: bash
+            run: |
+                set -euo pipefail
+                echo "Collecting PR changed files..."
+                FILES_CHANGED=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} || true)
+                echo "$FILES_CHANGED"
+
+                ERRORS=""
+
+                # 检查二进制文件
+                BIN_FILES=""
+                while IFS= read -r file; do
+                [ -z "$file" ] && continue  # 跳过空行
+                    # 正则规则：
+                    # - [^/] 确保文件名部分不以 / 结尾（排除目录）
+                    # - \.(ext)$ 匹配指定扩展名的文件
+                if [[ "$file" =~ [^/]\.(azw3|azw|epub|mobi|pdf|kf8|cbz|cbr)$ ]]; then
+                    BIN_FILES+="$file"$'\n'  # 用 $'\n' 确保换行符正确
+                fi
+                done <<< "$FILES_CHANGED"
+
+                if [ -n "$BIN_FILES" ]; then
+                # 去除末尾多余换行符，并用 sed 前缀格式化
+                FORMATTED_BIN=$(echo "$BIN_FILES" | sed '/^$/d' | sed 's/^/- /')
+                ERRORS+="⚠️ Detected ebook binary files:\n$FORMATTED_BIN\nPlease add ebook files to **E-Library-Books-Repo**: https://github.com/TiiJeiJ8/E-Library-Books-Repo\n\n"
+                fi
+
+                # books/ 子目录命名规范
+                BOOKS_ERRORS=""
+                # 作者目录 (by-author/Last-First-...)
+                while IFS= read -r f; do
+                    [ -z "$f" ] && continue
+                    # 只关心 books 路径
+                    if [[ "$f" =~ ^books/ ]]; then
+                        # 提取路径片段
+                        case "$f" in
+                            books/by-author/*)
+                                # 获取作者目录名（第三级）
+                                author_dir=$(echo "$f" | awk -F'/' '{print $3}')
+                                # 允许字母数字及 . _ -
+                                if ! [[ "$author_dir" =~ ^[A-Z][A-Za-z0-9._-]+$ ]]; then
+                                    BOOKS_ERRORS+="Invalid author dir: books/by-author/$author_dir\n"
+                                fi
+                                ;;
+                            books/by-genre/*)
+                                # 支持多级子流派，例如 books/by-genre/Science-Fiction/Dystopian-Fiction
+                                # 提取除前两级（books/by-genre）之外的路径部分
+                                subpath=${f#books/by-genre/}
+                                # 仅保留目录部分（去掉可能的文件名）
+                                dirpath=$(dirname "${subpath}")
+                                IFS='/' read -ra parts <<< "$dirpath"
+                                for part in "${parts[@]}"; do
+                                    [ "$part" = "." ] && continue
+                                    # 跳过当 dirname 返回 . 或 空
+                                    if [ -z "$part" ] || [ "$part" = "." ]; then
+                                        continue
+                                    fi
+                                    if ! [[ "$part" =~ ^[A-Z][A-Za-z0-9]+(-[A-Z][A-Za-z0-9]+)*$ ]]; then
+                                        BOOKS_ERRORS+="Invalid genre segment: books/by-genre/$part in path $f\n"
+                                    fi
+                                done
+                                ;;
+                            books/by-topic/*)
+                                subpath=${f#books/by-topic/}
+                                dirpath=$(dirname "${subpath}")
+                                IFS='/' read -ra parts <<< "$dirpath"
+                                for part in "${parts[@]}"; do
+                                    [ "$part" = "." ] && continue
+                                    if [ -z "$part" ] || [ "$part" = "." ]; then
+                                        continue
+                                    fi
+                                    if ! [[ "$part" =~ ^[A-Z][A-Za-z0-9]+(-[A-Z][A-Za-z0-9]+)*$ ]]; then
+                                        BOOKS_ERRORS+="Invalid topic segment: books/by-topic/$part in path $f\n"
+                                    fi
+                                done
+                                ;;
+                        esac
+                    fi
+                done <<< "$FILES_CHANGED"
+                if [ -n "$BOOKS_ERRORS" ]; then
+                    ERRORS+="⚠️ books/--Naming convention issues:\n$BOOKS_ERRORS\n .eg: books/by-author/Clarke-Arthur-C, books/by-genre/Science-Fiction\n\n"
+                fi
+
+                # docs/ summaries 文件命名检查
+                DOCS_ERRORS=""
+                while IFS= read -r f; do
+                    [ -z "$f" ] && continue
+                    if [[ "$f" =~ ^docs/summaries/.*\.(en|zh)\.md$ ]]; then
+                        # 期望格式 Author_Title_Year.lang.md
+                        base=$(basename "$f")
+                        if ! [[ "$base" =~ ^[A-Za-z0-9]+_[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*_[0-9]{4}\.(en|zh)\.md$ ]]; then
+                            DOCS_ERRORS+="Invalid summary filename: $f\n"
+                        fi
+                    fi
+                done <<< "$FILES_CHANGED"
+                if [ -n "$DOCS_ERRORS" ]; then
+                    ERRORS+="⚠️ docs/summaries--Naming convention issues:\n$DOCS_ERRORS\n .eg: docs/summaries/Orwell_1984_1949.en.md\n\n"
+                fi
+
+                # 提取所有 PR 文件里引用的 library 文件，每行一个
+                REFS=$(grep -hEo 'library/[^)"]+' $FILES_CHANGED 2>/dev/null | sort -u)
+
+                # 检查 library 文件是否存在
+                GH_TOKEN="${{ secrets.GITHUB_TOKEN }}"
+                OWNER="TiiJeiJ8"
+                REPO="E-Library-Books-Repo"
+                MISSING_FILES=""
+
+                while IFS= read -r ref; do
+                    [ -z "$ref" ] && continue
+                    FILE_PATH="${ref#library/}"
+
+                    HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+                        -H "Authorization: token $GH_TOKEN" \
+                        -H "Accept: application/vnd.github.v3+json" \
+                        "https://api.github.com/repos/$OWNER/$REPO/contents/$FILE_PATH")
+
+                    if [ "$HTTP_STATUS" != "200" ]; then
+                        MISSING_FILES+="$ref\n"
+                    fi
+                done <<< "$REFS"
+
+                if [ -n "$MISSING_FILES" ]; then
+                    ERRORS+="⚠️ Referenced library files missing in subrepo:\n$MISSING_FILES\n\n"
+                fi
+
+                # 输出统一 PR 注释
+                if [ -n "$ERRORS" ]; then
+                    echo "errors<<EOF" >> $GITHUB_OUTPUT
+                    echo -e "$ERRORS" >> $GITHUB_OUTPUT
+                    echo "EOF" >> $GITHUB_OUTPUT
+                    exit 1
+                else
+                    echo "No PR issues detected."
+                    echo "errors<<EOF" >> $GITHUB_OUTPUT
+                    echo "" >> $GITHUB_OUTPUT
+                    echo "EOF" >> $GITHUB_OUTPUT
+                fi
+            continue-on-error: true
+
+        -   name: Create PR comment
+            if: steps.pr-check.outcome == 'failure'
+            uses: peter-evans/create-or-update-comment@v3
+            with:
+                token: ${{ secrets.GITHUB_TOKEN }}
+                issue-number: ${{ github.event.pull_request.number }}
+                body: |
+                    ${{ steps.pr-check.outputs.errors }}
